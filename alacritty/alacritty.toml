@@ -1,0 +1,42 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/solarized_osaka.toml"
+]
+[font]
+size = 12
+normal = { family = "Terminess Nerd Font Propo", style = "Regular" }
+bold = { style = "Bold" }
+italic = { style = "Italic" }
+offset = { x = 0, y = 0 }
+glyph_offset = { x = 0, y = 0 }
+builtin_box_drawing = true
+
+
+
+[window]
+opacity = 0.93
+padding = { x = 20, y = 10 }
+
+[cursor]
+style = "Beam"
+unfocused_hollow = false
+
+[mouse]
+hide_when_typing = true
+
+[selection]
+save_to_clipboard = true
+
+[env]
+TERM = "xterm-256color"
+
+[terminal]
+
+[terminal.shell]
+program = "zsh"
+
+[colors.primary]
+background = "#000000"
+foreground = "#ffffff"
+
+

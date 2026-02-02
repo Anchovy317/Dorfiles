@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+DIR="${BLOCK_INSTANCE:-$HOME}"   # usa BLOCK_INSTANCE si lo pasas, sino $HOME
+
+df -h "$DIR" | awk 'NR==2 {
+    used=$3
+    total=$2
+    perc=substr($5,1,length($5)-1)+0
+    printf " %s/%s", used, total
+    # O con porcentaje: printf " %s/%s (%d%%)", used, total, perc
+    if (perc >= 90) exit 33       # color urgente si >90%
+}'

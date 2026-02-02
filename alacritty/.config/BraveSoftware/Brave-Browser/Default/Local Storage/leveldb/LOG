@@ -1,0 +1,15 @@
+2026/02/02-19:22:38.630 5 Reusing MANIFEST /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2026/02/02-19:22:38.634 5 Recovering log #23
+2026/02/02-19:22:38.635 5 Reusing old log /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000023.log 
+2026/02/02-19:22:47.680 7 Level-0 table #27: started
+2026/02/02-19:22:47.682 7 Level-0 table #27: 55666 bytes OK
+2026/02/02-19:22:47.683 7 Delete type=0 #23
+2026/02/02-19:22:47.684 7 Compacting 4@0 + 1@1 files
+2026/02/02-19:22:47.689 7 Generated table #28@0: 105 keys, 305404 bytes
+2026/02/02-19:22:47.689 7 Compacted 4@0 + 1@1 files => 305404 bytes
+2026/02/02-19:22:47.691 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/02-19:22:47.691 7 Delete type=2 #19
+2026/02/02-19:22:47.691 7 Delete type=2 #27
+2026/02/02-19:22:47.691 7 Delete type=2 #21
+2026/02/02-19:22:47.691 7 Delete type=2 #24
+2026/02/02-19:22:47.691 7 Delete type=2 #17

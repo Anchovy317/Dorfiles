@@ -1,0 +1,6 @@
+2025/10/01-07:52:54.087 b2b Creating DB /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/WebStorage/352/IndexedDB/indexeddb.leveldb since it was missing.
+2025/10/01-07:52:54.091 b2b Reusing MANIFEST /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/WebStorage/352/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/10/01-11:51:44.198 b2d Level-0 table #5: started
+2025/10/01-11:51:44.199 b2d Level-0 table #5: 36691 bytes OK
+2025/10/01-11:51:44.200 b2d Delete type=0 #3
+2025/10/01-11:51:44.200 b2d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

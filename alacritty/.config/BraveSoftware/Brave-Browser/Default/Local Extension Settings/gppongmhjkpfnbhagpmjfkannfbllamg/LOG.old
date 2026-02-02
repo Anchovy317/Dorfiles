@@ -1,0 +1,24 @@
+2026/02/02-17:52:16.010 3c76 Reusing MANIFEST /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/MANIFEST-000001
+2026/02/02-17:52:16.011 3c76 Recovering log #13060
+2026/02/02-17:52:16.012 3c76 Reusing old log /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/013060.log 
+2026/02/02-17:52:18.899 3c78 Level-0 table #13064: started
+2026/02/02-17:52:18.905 3c78 Level-0 table #13064: 887033 bytes OK
+2026/02/02-17:52:18.906 3c78 Delete type=0 #13060
+2026/02/02-17:52:36.197 3c78 Level-0 table #13066: started
+2026/02/02-17:52:36.221 3c78 Level-0 table #13066: 906971 bytes OK
+2026/02/02-17:52:36.223 3c78 Delete type=0 #13063
+2026/02/02-17:52:36.597 3c78 Level-0 table #13068: started
+2026/02/02-17:52:36.622 3c78 Level-0 table #13068: 927395 bytes OK
+2026/02/02-17:52:36.624 3c78 Delete type=0 #13065
+2026/02/02-18:06:58.154 3c78 Level-0 table #13070: started
+2026/02/02-18:06:58.170 3c78 Level-0 table #13070: 931558 bytes OK
+2026/02/02-18:06:58.171 3c78 Delete type=0 #13067
+2026/02/02-18:06:58.172 3c78 Compacting 4@0 + 1@1 files
+2026/02/02-18:06:58.180 3c78 Generated table #13071@0: 1 keys, 85318 bytes
+2026/02/02-18:06:58.180 3c78 Compacted 4@0 + 1@1 files => 85318 bytes
+2026/02/02-18:06:58.181 3c78 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/02-18:06:58.181 3c78 Delete type=2 #13061
+2026/02/02-18:06:58.181 3c78 Delete type=2 #13064
+2026/02/02-18:06:58.181 3c78 Delete type=2 #13070
+2026/02/02-18:06:58.181 3c78 Delete type=2 #13066
+2026/02/02-18:06:58.181 3c78 Delete type=2 #13068

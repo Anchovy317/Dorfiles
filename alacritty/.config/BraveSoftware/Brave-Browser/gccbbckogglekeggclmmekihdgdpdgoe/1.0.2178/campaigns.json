@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "gracePeriod": "72h",
+  "campaigns": [
+    {
+      "version": 1,
+      "advertiserId": "492118ac-e21a-4f64-ae9f-56fcc0a84e83",
+      "campaignId": "e41da05d-c3fd-453d-a497-2242c7d9e7f4",
+      "startAt": "2025-09-24T04:00:00.000Z",
+      "endAt": "2025-09-25T03:59:00.000Z",
+      "dailyCap": 20,
+      "priority": 1,
+      "ptr": 1,
+      "metrics": "p3a",
+      "geoTargets": [
+        "US"
+      ],
+      "creativeSets": [
+        {
+          "creativeSetId": "1815af05-7c54-4f56-9dd6-cda5506f8f1c",
+          "perDay": 20,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 20,
+          "value": "0.01",
+          "creatives": [
+            {
+              "creativeInstanceId": "325e0676-4dcb-48f1-ac97-d15da2650974",
+              "targetUrl": "https://www.ford.com/",
+              "alt": "Bronco® Take The Road Less Paved",
+              "companyName": "Ready Set Ford™",
+              "wallpaper": {
+                "type": "richMedia",
+                "relativeUrl": "ed4e7668-9cd6-444d-87e1-a6f383b025a7/index.html"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

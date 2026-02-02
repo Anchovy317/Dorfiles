@@ -1,0 +1,4183 @@
+{
+   "checksum": "8fb9fccb7b86433e40df6235b7db9021",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13382541165000000",
+            "date_last_used": "0",
+            "guid": "5426a98b-6fcc-4333-9b13-362c5dc74f1b",
+            "id": "5",
+            "name": "Exploit-DB",
+            "type": "url",
+            "url": "https://www.exploit-db.com/"
+         }, {
+            "date_added": "13382541166000000",
+            "date_last_used": "0",
+            "guid": "376bfc0a-8139-4fa9-895b-2f229dbb9460",
+            "id": "6",
+            "name": "Google Hacking DB",
+            "type": "url",
+            "url": "https://www.exploit-db.com/google-hacking-database"
+         }, {
+            "date_added": "13340389795000000",
+            "date_last_used": "13414524173702153",
+            "guid": "67b11cd5-51df-4980-a3bb-591804e87b8d",
+            "id": "7",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13364674181000000",
+            "date_last_used": "0",
+            "guid": "63791032-1507-4a79-8492-1e3c8b58bf47",
+            "id": "9",
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chatgpt.com/"
+         }, {
+            "date_added": "13314316344000000",
+            "date_last_used": "0",
+            "guid": "e5753867-4c03-44f9-8bac-c74743b8c0db",
+            "id": "11",
+            "name": "Descubre las canciones más escuchadas de Internet en SoundCloud",
+            "type": "url",
+            "url": "https://soundcloud.com/discover"
+         }, {
+            "date_added": "13392208824084302",
+            "date_last_used": "0",
+            "guid": "6d17732e-ca93-42ad-b415-a09932510db3",
+            "id": "443",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HTB Account",
+            "type": "url",
+            "url": "https://account.hackthebox.com/dashboard"
+         }, {
+            "date_added": "13340390944000000",
+            "date_last_used": "13414504383799023",
+            "guid": "fb883ce9-fadb-4a43-92a4-8216ae573b6c",
+            "id": "17",
+            "name": "YouTube Music",
+            "type": "url",
+            "url": "https://music.youtube.com/"
+         }, {
+            "date_added": "13326766988000000",
+            "date_last_used": "0",
+            "guid": "b9db4752-37b0-4a42-a18b-028a623b7d8f",
+            "id": "12",
+            "name": "‎Apple Music",
+            "type": "url",
+            "url": "https://music.apple.com/es/library/recently-added?l=es-ES"
+         }, {
+            "date_added": "13319036263000000",
+            "date_last_used": "0",
+            "guid": "1c0cbf5a-4d37-4479-a726-87d946f17371",
+            "id": "13",
+            "name": "GitHub ",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13331069848000000",
+            "date_last_used": "0",
+            "guid": "b371ef76-99b6-40d0-83b4-cf8cacd4d1df",
+            "id": "14",
+            "name": "NeoLand",
+            "type": "url",
+            "url": "https://neoland.dev/color-schemes"
+         }, {
+            "date_added": "13324438120000000",
+            "date_last_used": "0",
+            "guid": "22446c7e-4566-4c69-b317-31830011b387",
+            "id": "15",
+            "name": "HackTricks - HackTricks",
+            "type": "url",
+            "url": "https://book.hacktricks.xyz/welcome/readme"
+         }, {
+            "date_added": "13375800031000000",
+            "date_last_used": "0",
+            "guid": "de5aca50-4bf4-418f-84ab-77b9f5ea7346",
+            "id": "16",
+            "name": "Exercism",
+            "type": "url",
+            "url": "https://exercism.org/tracks/c/exercises/leap/edit"
+         }, {
+            "date_added": "13319551589000000",
+            "date_last_used": "0",
+            "guid": "0dc38474-37a1-41e6-aa2d-72df2da89abe",
+            "id": "18",
+            "name": "DevDocs API Documentation",
+            "type": "url",
+            "url": "https://devdocs.io/"
+         }, {
+            "date_added": "13326748064000000",
+            "date_last_used": "0",
+            "guid": "b3adbd94-534b-4f31-8005-5751065787f7",
+            "id": "19",
+            "name": "Hack The Box :: Dashboard",
+            "type": "url",
+            "url": "https://app.hackthebox.com/home"
+         }, {
+            "date_added": "13340219581000000",
+            "date_last_used": "0",
+            "guid": "169018c7-d660-4231-8fc3-1c9641527d5e",
+            "id": "20",
+            "name": "Exercism",
+            "type": "url",
+            "url": "https://exercism.org/settings/api_cli"
+         }, {
+            "date_added": "13319900704000000",
+            "date_last_used": "0",
+            "guid": "f735e63c-d6f6-4d3a-b352-7a58a472ee47",
+            "id": "21",
+            "name": "JavaScript DOM Methods",
+            "type": "url",
+            "url": "https://www.w3schools.com/js/js_htmldom_methods.asp"
+         }, {
+            "date_added": "13372938525000000",
+            "date_last_used": "0",
+            "guid": "58bcc559-4d69-4f71-9338-4dd278dbdab4",
+            "id": "22",
+            "name": "Capstone.drawio - draw.io",
+            "type": "url",
+            "url": "https://app.diagrams.net/#G1Wdc4UaA2xqYiQakPdF47vX58ik6DU0Nb#%7B%22pageId%22%3A%22AtTMd_FTJwTzVN4-uCbb%22%7D"
+         }, {
+            "date_added": "13320051138000000",
+            "date_last_used": "0",
+            "guid": "cf9e0efc-39a0-45d6-b9fa-5eb54ca77b2c",
+            "id": "23",
+            "name": "W3Schools Online Web Tutorials",
+            "type": "url",
+            "url": "https://www.w3schools.com/"
+         }, {
+            "date_added": "13320214248000000",
+            "date_last_used": "0",
+            "guid": "0c37f3c1-08d2-4fe8-9278-81b63ac2cbc0",
+            "id": "24",
+            "name": "edclub",
+            "type": "url",
+            "url": "https://www.typingclub.com/sportal/program-3/4616.play"
+         }, {
+            "date_added": "13321541920000000",
+            "date_last_used": "0",
+            "guid": "b98af255-a9e8-468f-b806-71245665f05d",
+            "id": "25",
+            "name": "#1814333 CVE-2023-23915: HSTS amnesia with --parallel",
+            "type": "url",
+            "url": "https://hackerone.com/reports/1814333"
+         }, {
+            "date_added": "13322232158000000",
+            "date_last_used": "0",
+            "guid": "df32885a-549a-4b8e-b026-7c2597318475",
+            "id": "26",
+            "name": "Nmap Cheat Sheet 2023: All the Commands, Flags & Switches",
+            "type": "url",
+            "url": "https://www.stationx.net/nmap-cheat-sheet/"
+         }, {
+            "date_added": "13325370521000000",
+            "date_last_used": "0",
+            "guid": "9fd771d8-39f7-45d5-bbb2-5a35d84c495c",
+            "id": "27",
+            "name": "Online - Reverse Shell Generator",
+            "type": "url",
+            "url": "https://www.revshells.com/"
+         }, {
+            "date_added": "13326396349000000",
+            "date_last_used": "0",
+            "guid": "a23ac460-0a9d-40c8-ac8e-56bd696d4c66",
+            "id": "28",
+            "name": "Vulnerable By Design ~ VulnHub",
+            "type": "url",
+            "url": "https://www.vulnhub.com/"
+         }, {
+            "date_added": "13316031301000000",
+            "date_last_used": "0",
+            "guid": "8bcef7cf-13bc-4668-9285-95335e9191f5",
+            "id": "29",
+            "name": "Área personal",
+            "type": "url",
+            "url": "https://campus.implika.es/my/"
+         }, {
+            "date_added": "13327524418000000",
+            "date_last_used": "0",
+            "guid": "454fac7d-fc83-4409-8bfa-e9aeeeb094cd",
+            "id": "30",
+            "name": "Monkeytype | A minimalistic, customizable typing test",
+            "type": "url",
+            "url": "https://monkeytype.com/"
+         }, {
+            "date_added": "13314392916000000",
+            "date_last_used": "0",
+            "guid": "2160fba3-2567-44fe-9bc6-67ce813ea746",
+            "id": "31",
+            "name": "Network configuration (Español) - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/Network_configuration_(Espa%C3%B1ol)"
+         }, {
+            "date_added": "13314396202000000",
+            "date_last_used": "0",
+            "guid": "843f81d4-7528-4271-ac2b-fbebfc374090",
+            "id": "32",
+            "name": "What is Cybersecurity & Importance of Cyber Security | Simplilearn",
+            "type": "url",
+            "url": "https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-cyber-security"
+         }, {
+            "date_added": "13323927742000000",
+            "date_last_used": "0",
+            "guid": "efdf9f66-a373-4b1e-b4dc-cad09fc61837",
+            "id": "33",
+            "name": "face, anime, vaporwave, colorful, birds, animals, flowers | 6144x4096 Wallpaper - wallhaven.cc",
+            "type": "url",
+            "url": "https://wallhaven.cc/w/1pq9kv"
+         }, {
+            "date_added": "13314596342000000",
+            "date_last_used": "0",
+            "guid": "9169cc63-c9be-43ae-8eed-3db118a019a4",
+            "id": "34",
+            "name": "Crunchyroll - Watch Popular Anime & Read Manga Online",
+            "type": "url",
+            "url": "https://www.crunchyroll.com/"
+         }, {
+            "date_added": "13314836270000000",
+            "date_last_used": "0",
+            "guid": "7732f997-decf-40f5-a324-6ab80a55d939",
+            "id": "35",
+            "name": "PEP 8 – Style Guide for Python Code | peps.python.org",
+            "type": "url",
+            "url": "https://peps.python.org/pep-0008/"
+         }, {
+            "date_added": "13315364794000000",
+            "date_last_used": "0",
+            "guid": "24130d27-8789-42d7-be56-1a602c621741",
+            "id": "36",
+            "name": "`list-fonts` does not show Fira Code · Issue #827 · kovidgoyal/kitty · GitHub",
+            "type": "url",
+            "url": "https://github.com/kovidgoyal/kitty/issues/827"
+         }, {
+            "date_added": "13315624464000000",
+            "date_last_used": "0",
+            "guid": "cdd48bb3-1460-4112-a62a-39fe9854c4cf",
+            "id": "37",
+            "name": "HUNTER | Expertos en Seguridad | Monitoreo GPS, Guardianes y Alarmas.",
+            "type": "url",
+            "url": "https://www.hunter.com.do/"
+         }, {
+            "date_added": "13316028762000000",
+            "date_last_used": "0",
+            "guid": "4b59e9a6-5c8e-43d3-b25d-9ce71b713f78",
+            "id": "38",
+            "name": "Crayon Chinchan illustration, Crayon Shin-chan Animation Television show TV Asahi Cartoon, doraemon, television, child png | PNGEgg",
+            "type": "url",
+            "url": "https://www.pngegg.com/en/png-zvdea"
+         }, {
+            "date_added": "13316030039000000",
+            "date_last_used": "0",
+            "guid": "abbe67d1-7dd8-48aa-9df2-585a69e02a12",
+            "id": "39",
+            "name": "Mastermind",
+            "type": "url",
+            "url": "https://www.mastermind.ac/"
+         }, {
+            "date_added": "13382541164000000",
+            "date_last_used": "0",
+            "guid": "429b7275-192b-437b-a627-f6a13329a6e3",
+            "id": "40",
+            "name": "Kali Forums",
+            "type": "url",
+            "url": "https://forums.kali.org/"
+         }, {
+            "date_added": "13382541164000000",
+            "date_last_used": "0",
+            "guid": "4b446c38-14b6-4aaa-9d4e-9e4186009601",
+            "id": "41",
+            "name": "Kali Docs",
+            "type": "url",
+            "url": "https://www.kali.org/docs/"
+         }, {
+            "date_added": "13316043066000000",
+            "date_last_used": "0",
+            "guid": "6f825dc9-a3b4-428e-8525-b8bcb6c16a77",
+            "id": "42",
+            "name": "Congratulations. This browser is configured to use Tor.",
+            "type": "url",
+            "url": "https://check.torproject.org/"
+         }, {
+            "date_added": "13327582173000000",
+            "date_last_used": "0",
+            "guid": "6e745b51-1a2b-4bc0-8c92-93f80ee52dab",
+            "id": "43",
+            "name": "Calificaciones: Vista",
+            "type": "url",
+            "url": "https://campus.implika.es/grade/report/user/index.php?id=2102"
+         }, {
+            "date_added": "13382541163000000",
+            "date_last_used": "0",
+            "guid": "a4c0e6c1-cdd4-4875-96e7-6d2ba625bc07",
+            "id": "44",
+            "name": "Kali Linux",
+            "type": "url",
+            "url": "https://www.kali.org/"
+         }, {
+            "date_added": "13382541166000000",
+            "date_last_used": "0",
+            "guid": "57b6569b-1c2d-4afb-835c-23ff143117c4",
+            "id": "45",
+            "name": "OffSec",
+            "type": "url",
+            "url": "https://www.offsec.com/"
+         }, {
+            "date_added": "13316113942000000",
+            "date_last_used": "0",
+            "guid": "cd5d2bab-61c3-4850-bcb1-5a2cf6f726c9",
+            "id": "46",
+            "name": "nvim-treesitter/nvim-treesitter: Nvim Treesitter configurations and abstraction layer",
+            "type": "url",
+            "url": "https://github.com/nvim-treesitter/nvim-treesitter#supported-languages"
+         }, {
+            "date_added": "13382541165000000",
+            "date_last_used": "0",
+            "guid": "77a98ced-8001-4b47-974c-e1e0c616efe4",
+            "id": "47",
+            "name": "Kali NetHunter",
+            "type": "url",
+            "url": "https://www.kali.org/kali-nethunter/"
+         }, {
+            "date_added": "13382541163000000",
+            "date_last_used": "0",
+            "guid": "005e553c-5cd7-4ee1-8db6-27b6f9ce5d04",
+            "id": "48",
+            "name": "Kali Tools",
+            "type": "url",
+            "url": "https://www.kali.org/tools/"
+         }, {
+            "date_added": "13318202182000000",
+            "date_last_used": "0",
+            "guid": "8a0c5245-a8fa-46f4-af25-c6d03bdf675f",
+            "id": "49",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/firefox/central/"
+         }, {
+            "date_added": "13316113987000000",
+            "date_last_used": "0",
+            "guid": "fabd8851-930b-4635-87c1-2425c0854392",
+            "id": "50",
+            "name": "nanotee/nvim-lua-guide: A guide to using Lua in Neovim",
+            "type": "url",
+            "url": "https://github.com/nanotee/nvim-lua-guide"
+         }, {
+            "date_added": "13317855406000000",
+            "date_last_used": "0",
+            "guid": "741fc4b4-3a4e-4309-81b9-89e98d0747a5",
+            "id": "51",
+            "name": "Free download | HD wallpaper: painting of river in forest, body of water surrounded by trees painting | Wallpaper Flare",
+            "type": "url",
+            "url": "https://www.wallpaperflare.com/painting-of-river-in-forest-body-of-water-surrounded-by-trees-painting-wallpaper-mlc/download"
+         }, {
+            "date_added": "13318409624000000",
+            "date_last_used": "0",
+            "guid": "1d97105b-290b-4002-8ae9-12c742bd7f0d",
+            "id": "52",
+            "name": "Hot Wallpapers - wallhaven.cc",
+            "type": "url",
+            "url": "https://wallhaven.cc/hot?page=3"
+         }, {
+            "date_added": "13319669811000000",
+            "date_last_used": "0",
+            "guid": "2abc66a8-19fa-4b4b-a2f0-09db9c5535b9",
+            "id": "53",
+            "name": "Enviar una solicitud – Implika: Centro de Formación",
+            "type": "url",
+            "url": "https://implikaalumnos.zendesk.com/hc/es/requests/new"
+         }, {
+            "date_added": "13320260692000000",
+            "date_last_used": "0",
+            "guid": "6e249fe5-7efb-40db-bdbf-75a9e189be8a",
+            "id": "54",
+            "name": "BlackArch Linux, The BlackArch Linux Guide - blackarch-guide-en.pdf",
+            "type": "url",
+            "url": "https://blackarch.org/blackarch-guide-en.pdf"
+         }, {
+            "date_added": "13320262948000000",
+            "date_last_used": "0",
+            "guid": "802374ad-05dc-4df7-803b-c649878d75bc",
+            "id": "55",
+            "name": "blackarch/packages at master · BlackArch/blackarch",
+            "type": "url",
+            "url": "https://github.com/BlackArch/blackarch/tree/master/packages"
+         }, {
+            "date_added": "13320271482000000",
+            "date_last_used": "0",
+            "guid": "a94ed29d-9688-4b34-9f88-010e65efcbe0",
+            "id": "56",
+            "name": "Home - Marmolería José Rey",
+            "type": "url",
+            "url": "https://marmoleriajoserey.com/"
+         }, {
+            "date_added": "13320643991000000",
+            "date_last_used": "0",
+            "guid": "cc0c151d-7556-44b0-8fb3-0ddf3ddc5c5e",
+            "id": "57",
+            "name": "nvim config - Buscar con Google",
+            "type": "url",
+            "url": "https://www.google.com/search?client=firefox-b-d&q=nvim+config#fpstate=ive&vld=cid:6cd18c66,vid:J9yqSdvAKXY"
+         }, {
+            "date_added": "13320650037000000",
+            "date_last_used": "0",
+            "guid": "20b8b6bd-9d14-49a7-9b41-bc11bdaa928c",
+            "id": "58",
+            "name": "Learn Lua | Codecademy",
+            "type": "url",
+            "url": "https://www.codecademy.com/courses/learn-lua/lessons/lua-data-types-and-operators/exercises/lua-categorizing-data-with-types"
+         }, {
+            "date_added": "13323912566000000",
+            "date_last_used": "0",
+            "guid": "afb9b072-87df-4e1b-b46a-b087e1470dca",
+            "id": "59",
+            "name": "OWASP Top Ten | OWASP Foundation",
+            "type": "url",
+            "url": "https://owasp.org/www-project-top-ten/"
+         }, {
+            "date_added": "13324496690000000",
+            "date_last_used": "0",
+            "guid": "2063b762-1777-4ed8-9e29-b5f9f72eac0c",
+            "id": "60",
+            "name": "File Inclusion/Path traversal - HackTricks",
+            "type": "url",
+            "url": "https://book.hacktricks.xyz/pentesting-web/file-inclusion"
+         }, {
+            "date_added": "13324497197000000",
+            "date_last_used": "0",
+            "guid": "af3260dc-6a3e-4280-8e10-25da1235e000",
+            "id": "61",
+            "name": "File Inclusion/Path traversal - HackTricks - Boitatech",
+            "type": "url",
+            "url": "https://hacktricks.boitatech.com.br/pentesting-web/file-inclusion#wrapper-php-filter"
+         }, {
+            "date_added": "13326468189000000",
+            "date_last_used": "0",
+            "guid": "7c338ac2-f53d-4a77-8cb7-9be515e5866d",
+            "id": "62",
+            "name": "Khan Academy | Práctica, lecciones y cursos en línea gratuitos",
+            "type": "url",
+            "url": "https://es.khanacademy.org/"
+         }, {
+            "date_added": "13326468457000000",
+            "date_last_used": "0",
+            "guid": "d6f05c82-bc46-4ee1-8a35-2408b898dde1",
+            "id": "63",
+            "name": "Free Courses | Harvard University",
+            "type": "url",
+            "url": "https://pll.harvard.edu/catalog/free?page=1"
+         }, {
+            "date_added": "13323911821000000",
+            "date_last_used": "0",
+            "guid": "d702bc7b-45e4-4329-a1f7-b4d2291c3109",
+            "id": "64",
+            "name": "28cb488e-2299-49e2-9c10-f5171b56643d",
+            "type": "url",
+            "url": "blob:https://app.hackthebox.com/28cb488e-2299-49e2-9c10-f5171b56643d"
+         }, {
+            "date_added": "13326829288000000",
+            "date_last_used": "0",
+            "guid": "cd7ecf79-e6be-4258-9346-b2eb7d7bdabb",
+            "id": "65",
+            "name": "[SOLVED] Netcat fails to connect to port on localhost / Networking, Server, and Protection / Arch Linux Forums",
+            "type": "url",
+            "url": "https://bbs.archlinux.org/viewtopic.php?id=171551"
+         }, {
+            "date_added": "13327088886000000",
+            "date_last_used": "0",
+            "guid": "1b05c218-4532-45c8-8069-962a18c07123",
+            "id": "66",
+            "name": "IQUNIX",
+            "type": "url",
+            "url": "https://iqunix.store/apps/17track?nums=WNBAA0235376210YQ"
+         }, {
+            "date_added": "13327462667000000",
+            "date_last_used": "0",
+            "guid": "33f1f453-51c7-4632-9a06-84e89292e647",
+            "id": "67",
+            "name": "Diccionario Coreano-Español",
+            "type": "url",
+            "url": "https://korean.dict.naver.com/koesdict/#/main"
+         }, {
+            "date_added": "13327604691000000",
+            "date_last_used": "0",
+            "guid": "7af6c1bb-7f6b-4ed2-a8ef-5d1d2bc563b6",
+            "id": "68",
+            "name": "OG80-英文说明书 - OG80-User_Guide_2023._pdf.pdf",
+            "type": "url",
+            "url": "https://cdn.shopify.com/s/files/1/1183/1328/files/OG80-User_Guide_2023._pdf.pdf?v=1673603392"
+         }, {
+            "date_added": "13327667829000000",
+            "date_last_used": "0",
+            "guid": "93966e0c-b69d-4006-9a93-3530edcd1f2a",
+            "id": "69",
+            "name": "williamboman/mason-lspconfig.nvim: Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.",
+            "type": "url",
+            "url": "https://github.com/williamboman/mason-lspconfig.nvim#available-lsp-servers"
+         }, {
+            "date_added": "13327722664000000",
+            "date_last_used": "0",
+            "guid": "a4de19e3-0705-4d1b-98ef-9c64e05fb6aa",
+            "id": "70",
+            "name": "Detector de plagio -",
+            "type": "url",
+            "url": "https://my.plag.es/myfiles"
+         }, {
+            "date_added": "13327723435000000",
+            "date_last_used": "0",
+            "guid": "72c6e5e2-1d85-4689-86b7-43b38ddb193c",
+            "id": "71",
+            "name": "Ejemplos TFG.pdf - Copyleaks Report",
+            "type": "url",
+            "url": "https://app.copyleaks.com/dashboard/v1/account/scans/08jbd19n6kz5n99l/report?viewMode=one-to-many&contentMode=html&sourcePage=1&suspectPage=1"
+         }, {
+            "date_added": "13328274025000000",
+            "date_last_used": "0",
+            "guid": "66361ab0-8bff-45fa-a6a2-6a6b48c68748",
+            "id": "72",
+            "name": "Vim Cheat Sheet",
+            "type": "url",
+            "url": "https://vim.rtorr.com/"
+         }, {
+            "date_added": "13330413999000000",
+            "date_last_used": "0",
+            "guid": "34a4d534-806c-410c-b4ea-0ddc5dcc8c5f",
+            "id": "73",
+            "name": "MySQL :: MySQL 8.0 Reference Manual :: 13.7.7.21 SHOW GRANTS Statement",
+            "type": "url",
+            "url": "https://dev.mysql.com/doc/refman/8.0/en/show-grants.html"
+         }, {
+            "date_added": "13330426681000000",
+            "date_last_used": "0",
+            "guid": "e3678145-eafd-4b7b-a231-967ae1ac83a0",
+            "id": "74",
+            "name": "GTFOBins",
+            "type": "url",
+            "url": "https://gtfobins.github.io/"
+         }, {
+            "date_added": "13330779666000000",
+            "date_last_used": "0",
+            "guid": "a900f4b9-ccec-41dc-8e9b-890d829fe90d",
+            "id": "75",
+            "name": "Inicio - Canva",
+            "type": "url",
+            "url": "https://www.canva.com/"
+         }, {
+            "date_added": "13331064364000000",
+            "date_last_used": "0",
+            "guid": "5ee78009-da92-41e9-94a7-db21fb9d8f3f",
+            "id": "76",
+            "name": "Mi panel",
+            "type": "url",
+            "url": "https://www.topdoctors.es/registers/home"
+         }, {
+            "date_added": "13331296381000000",
+            "date_last_used": "0",
+            "guid": "2e04d07f-21eb-4229-a975-d112914f20b9",
+            "id": "77",
+            "name": "JavaScript Obfuscator Tool",
+            "type": "url",
+            "url": "https://obfuscator.io/"
+         }, {
+            "date_added": "13331296583000000",
+            "date_last_used": "0",
+            "guid": "522b463a-6a03-4904-8006-5b701c99e657",
+            "id": "78",
+            "name": "jjencode - Encode any JavaScript program using only symbols",
+            "type": "url",
+            "url": "https://utf-8.jp/public/jjencode.html"
+         }, {
+            "date_added": "13332524659000000",
+            "date_last_used": "0",
+            "guid": "53345e50-e6e4-4976-8fe6-9aa8ec89343e",
+            "id": "79",
+            "name": "Penetration Testing Bootcamp > Penetration Testing Bootcamp - Introduction | Class Central Classroom",
+            "type": "url",
+            "url": "https://www.classcentral.com/classroom/youtube-penetration-testing-bootcamp-53185"
+         }, {
+            "date_added": "13318510053000000",
+            "date_last_used": "0",
+            "guid": "526b5ce3-329c-4ff9-9aab-2cedecbead01",
+            "id": "80",
+            "name": "Examen Tema 5: ¿Será rentable mi futuro negocio?: Revisión del intento",
+            "type": "url",
+            "url": "https://campus.implika.es/mod/quiz/review.php?attempt=785958&cmid=34979"
+         }, {
+            "date_added": "13338728109000000",
+            "date_last_used": "0",
+            "guid": "ca5e1f8f-cc63-4e22-ac85-9204b80946c5",
+            "id": "81",
+            "name": "Alacritty 0.9.0 keyboard shortcuts ‒ defkey",
+            "type": "url",
+            "url": "https://defkey.com/alacritty-0-9-shortcuts"
+         }, {
+            "date_added": "13340208321000000",
+            "date_last_used": "0",
+            "guid": "6e3fa903-d6ef-4039-94a1-b013ffc80584",
+            "id": "82",
+            "name": "Everything Fades To Blue Radio",
+            "type": "url",
+            "url": "https://lofimusic.app/everything-fades-to-blue"
+         }, {
+            "date_added": "13340208566000000",
+            "date_last_used": "0",
+            "guid": "93275b80-1866-4ace-86cd-1f2fca3525cf",
+            "id": "83",
+            "name": "Lofi Player",
+            "type": "url",
+            "url": "https://alexrintt.io/lofi-player/"
+         }, {
+            "date_added": "13340213465000000",
+            "date_last_used": "0",
+            "guid": "6469e9d5-74a2-4548-8934-2df87ca9b729",
+            "id": "84",
+            "name": "Snapcraft - Snaps are universal Linux packages",
+            "type": "url",
+            "url": "https://snapcraft.io/"
+         }, {
+            "date_added": "13340292077000000",
+            "date_last_used": "0",
+            "guid": "3ffacee7-6d37-454b-86e7-7a8ec079279a",
+            "id": "85",
+            "name": "| Código Cristo |",
+            "type": "url",
+            "url": "https://codigocristo.github.io/driver_nvidia.html"
+         }, {
+            "date_added": "13340754990000000",
+            "date_last_used": "0",
+            "guid": "fcf8237b-45e2-4251-ba45-735acad1e416",
+            "id": "86",
+            "name": "git - ! [rejected] master -> master (fetch first) - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/28429819/rejected-master-master-fetch-first"
+         }, {
+            "date_added": "13340832690000000",
+            "date_last_used": "0",
+            "guid": "31c1fa51-47d5-4b85-85a8-cbdab4af9dd7",
+            "id": "87",
+            "name": "Codewars - Achieve mastery through coding practice and developer mentorship",
+            "type": "url",
+            "url": "https://www.codewars.com/"
+         }, {
+            "date_added": "13340904044000000",
+            "date_last_used": "0",
+            "guid": "c941b39c-0dac-4e32-832b-18f9974c1d3d",
+            "id": "88",
+            "name": "Python sobre el ejercicio",
+            "type": "url",
+            "url": "https://exercism.org/tracks/python/exercises/black-jack/edit"
+         }, {
+            "date_added": "13341070090000000",
+            "date_last_used": "0",
+            "guid": "6b90758a-3f87-491e-92f3-e0c46245f7a3",
+            "id": "89",
+            "name": "Training Python Fundamentals",
+            "type": "url",
+            "url": "https://classroom.google.com/u/1/c/NjE2MDY4MjQ3NTQz"
+         }, {
+            "date_added": "13341338460000000",
+            "date_last_used": "0",
+            "guid": "a6f8d08c-56b8-4704-b0fa-dea48a7e80ca",
+            "id": "90",
+            "name": "World.Party2k23",
+            "type": "url",
+            "url": "https://worldparty.hackmadrid.org/#speakers"
+         }, {
+            "date_added": "13341434214000000",
+            "date_last_used": "0",
+            "guid": "a9710170-3441-4559-b793-ee12255b20cb",
+            "id": "91",
+            "name": "(7) How to make Neovim splits transparent? : neovim",
+            "type": "url",
+            "url": "https://www.reddit.com/r/neovim/comments/xwzd0z/how_to_make_neovim_splits_transparent/"
+         }, {
+            "date_added": "13341960471000000",
+            "date_last_used": "0",
+            "guid": "49397949-36c4-4fda-9d70-20e2db93a04f",
+            "id": "92",
+            "name": "sPot: Spotify in a 4th-gen iPod (2004) | Hackaday.io",
+            "type": "url",
+            "url": "https://hackaday.io/project/177034-spot-spotify-in-a-4th-gen-ipod-2004"
+         }, {
+            "date_added": "13342024592000000",
+            "date_last_used": "0",
+            "guid": "55866f6c-8f25-40e5-8403-ffd5a7cb0d4e",
+            "id": "93",
+            "name": "OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation",
+            "type": "url",
+            "url": "https://owasp.org/"
+         }, {
+            "date_added": "13341428200000000",
+            "date_last_used": "0",
+            "guid": "0bf10fb6-2465-4ce2-9407-2455d91d8ade",
+            "id": "94",
+            "name": "Introducción al Certificado en Ciberseguridad de Google | Coursera",
+            "type": "url",
+            "url": "https://www.coursera.org/learn/fundamentos-de-la-ciberseguridad/lecture/DhI78/introduccion-al-certificado-en-ciberseguridad-de-google"
+         }, {
+            "date_added": "13342119437000000",
+            "date_last_used": "0",
+            "guid": "574065d3-4595-4029-a578-62454dc98fa4",
+            "id": "95",
+            "name": "Journey to the NIST Cybersecurity Framework (CSF) 2.0 | Workshop #3 | NIST",
+            "type": "url",
+            "url": "https://www.nist.gov/news-events/events/2023/09/journey-nist-cybersecurity-framework-csf-20-workshop-3"
+         }, {
+            "date_added": "13342636550000000",
+            "date_last_used": "0",
+            "guid": "f97b20bd-b499-4d35-98a2-7b81735615d9",
+            "id": "96",
+            "name": "Print - abcefc6d56db009603d897f8b669cd4273f7.pdf",
+            "type": "url",
+            "url": "https://gzhls.at/blob/ldb/e/7/b/3/abcefc6d56db009603d897f8b669cd4273f7.pdf"
+         }, {
+            "date_added": "13354824050000000",
+            "date_last_used": "0",
+            "guid": "a36f3dac-761a-4d05-9525-a0f07de05f14",
+            "id": "97",
+            "name": "2311VCSO - Máster Online en Ciberseguridad",
+            "type": "url",
+            "url": "https://app.zoom.us/wc/85318590751/join?fromPWA=1&_x_zm_rtaid=TXJss3QuSDCovmTFO7EMjw.1710349152074.5c98fceee6acf462c4bd969f23cd67a9&_x_zm_rhtaid=108"
+         }, {
+            "date_added": "13343355489000000",
+            "date_last_used": "0",
+            "guid": "8cd26562-cd48-4e4b-bc77-1003441c0159",
+            "id": "98",
+            "name": "Bash scripting cheatsheet",
+            "type": "url",
+            "url": "https://devhints.io/bash"
+         }, {
+            "date_added": "13343356921000000",
+            "date_last_used": "0",
+            "guid": "528da9fb-b340-4faf-9837-8ab9551de936",
+            "id": "99",
+            "name": "Command substitution [Bash Hackers Wiki]",
+            "type": "url",
+            "url": "https://web.archive.org/web/20230326081741/https://wiki.bash-hackers.org/syntax/expansion/cmdsubst"
+         }, {
+            "date_added": "13343361854000000",
+            "date_last_used": "0",
+            "guid": "a385f071-967a-46cd-8436-39e4cdc10abb",
+            "id": "100",
+            "name": "Bash scripting cheatsheet",
+            "type": "url",
+            "url": "https://devhints.io/bash#functions"
+         }, {
+            "date_added": "13343454470000000",
+            "date_last_used": "0",
+            "guid": "65d4be1d-01af-4aa4-914c-430fae52933e",
+            "id": "101",
+            "name": "Watch Silicon Valley 2014 full HD Free",
+            "type": "url",
+            "url": "https://1hd.to/watch-series/watch-silicon-valley-online-39013/95661"
+         }, {
+            "date_added": "13343723751000000",
+            "date_last_used": "0",
+            "guid": "b566d379-9cba-4e88-bb5d-fd9010b48685",
+            "id": "102",
+            "name": "Learning Catalog: Free online courses in Cybersecurity, etc.",
+            "type": "url",
+            "url": "https://skillsforall.com/catalog?category=course"
+         }, {
+            "date_added": "13345323192000000",
+            "date_last_used": "0",
+            "guid": "81d083e4-e61e-4f01-9345-8af9575b46ac",
+            "id": "103",
+            "name": "Monitor para diseñadores de 27 pulgadas con QHD, 100% sRGB, HDR y USB-C PD2705Q | BenQ España",
+            "type": "url",
+            "url": "https://www.benq.eu/es-es/monitor/designer/pd2705q/specifications.html"
+         }, {
+            "date_added": "13345750933000000",
+            "date_last_used": "0",
+            "guid": "416ae728-b8cf-420c-a580-e8aa376fd43c",
+            "id": "104",
+            "name": "Describir los conceptos de gobernanza, riesgo y cumplimiento (GRC) - Training | Microsoft Learn",
+            "type": "url",
+            "url": "https://learn.microsoft.com/es-es/training/modules/describe-security-concepts-methodologies/6-describe-compliance-concepts"
+         }, {
+            "date_added": "13346788833000000",
+            "date_last_used": "0",
+            "guid": "a41ed901-e995-4851-95e5-e80be41cbe96",
+            "id": "105",
+            "name": "Trabajo de clase de Máster en Ciberseguridad 2311VCSO",
+            "type": "url",
+            "url": "https://classroom.google.com/u/1/w/NjE2ODk4NTYzNzMy/t/all"
+         }, {
+            "date_added": "13346985322000000",
+            "date_last_used": "0",
+            "guid": "ab476944-fa46-4755-86ab-74d2e5f5cd2d",
+            "id": "106",
+            "name": "CIDR to IPv4 Address Range Utility Tool | IPAddressGuide",
+            "type": "url",
+            "url": "https://www.ipaddressguide.com/cidr"
+         }, {
+            "date_added": "13346993254000000",
+            "date_last_used": "0",
+            "guid": "4abe29f8-f756-4653-bc0c-b5405a08cb9d",
+            "id": "107",
+            "name": "IP Calculator / IP Subnetting",
+            "type": "url",
+            "url": "https://blog.jodies.de/ipcalc"
+         }, {
+            "date_added": "13347485538000000",
+            "date_last_used": "0",
+            "guid": "c7d06e9f-b952-4b0f-b41b-b88b2bd286d4",
+            "id": "108",
+            "name": "Atajos de teclado y comandos para usar VIM eficientemente",
+            "type": "url",
+            "url": "https://geekland.eu/atajos-de-teclado-y-comandos-para-usar-vim-eficientemente/"
+         }, {
+            "date_added": "13350154961000000",
+            "date_last_used": "0",
+            "guid": "73f4d269-5bd7-41bc-9bdc-55d1c4a1a7fe",
+            "id": "109",
+            "name": "Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers",
+            "type": "url",
+            "url": "https://www.exploit-db.com/"
+         }, {
+            "date_added": "13350536886000000",
+            "date_last_used": "0",
+            "guid": "4b58d571-1028-43b2-8d76-5c53bc2a6054",
+            "id": "110",
+            "name": "Torrentz2 Search Engine | The Best Torrent Search Engine",
+            "type": "url",
+            "url": "https://torrentz2.nz/"
+         }, {
+            "date_added": "13351287029000000",
+            "date_last_used": "0",
+            "guid": "f2e97cb2-5fdc-4098-a2df-dcdbd9562e3f",
+            "id": "111",
+            "name": "Navigating the Security Landscape | Optiv",
+            "type": "url",
+            "url": "https://www.optiv.com/navigating-security-landscape-guide-technologies-and-providers"
+         }, {
+            "date_added": "13351287169000000",
+            "date_last_used": "0",
+            "guid": "ca0d5299-841d-4ffd-b8ec-8f817920bb05",
+            "id": "112",
+            "name": "2024 USA | RSA Conference",
+            "type": "url",
+            "url": "https://www.rsaconference.com/usa"
+         }, {
+            "date_added": "13351380450000000",
+            "date_last_used": "0",
+            "guid": "edcfa9b0-9571-4bdc-9de2-d48fc219d98d",
+            "id": "113",
+            "name": "Set de dos herramientas para relojes BR 01 - BR 03 BR 01 - BR 03",
+            "type": "url",
+            "url": "https://www.bellross.com/eu/es/set-of-two-tools-for-br-01-br-03"
+         }, {
+            "date_added": "13352077262000000",
+            "date_last_used": "0",
+            "guid": "7ecaa8a3-a119-4ecb-94d3-17fa0ab6e120",
+            "id": "114",
+            "name": "Temp Mail - Disposable Temporary Email",
+            "type": "url",
+            "url": "https://temp-mail.org/"
+         }, {
+            "date_added": "13352927723000000",
+            "date_last_used": "0",
+            "guid": "dce51da1-c4bb-4fb9-a52b-fad119bf2e96",
+            "id": "115",
+            "name": "How to stabilize simple reverse shell to a fully interactive terminal",
+            "type": "url",
+            "url": "https://maxat-akbanov.com/how-to-stabilize-a-simple-reverse-shell-to-a-fully-interactive-terminal?source=post_page-----3db77d07bc06--------------------------------"
+         }, {
+            "date_added": "13353010506000000",
+            "date_last_used": "0",
+            "guid": "99d4a2fe-92f9-4af0-8321-4b24004a5ac2",
+            "id": "116",
+            "name": "Security Certification Roadmap - Paul Jerimy Media",
+            "type": "url",
+            "url": "https://pauljerimy.com/security-certification-roadmap/"
+         }, {
+            "date_added": "13353361835000000",
+            "date_last_used": "0",
+            "guid": "8cecedad-d2dc-48b5-8b43-63cd55fe514d",
+            "id": "117",
+            "name": "Qwiic Pro Micro USB-C (ATmega32U4) Hookup Guide - SparkFun Learn",
+            "type": "url",
+            "url": "https://learn.sparkfun.com/tutorials/qwiic-pro-micro-usb-c-atmega32u4-hookup-guide/setting-up-arduino"
+         }, {
+            "date_added": "13353362067000000",
+            "date_last_used": "0",
+            "guid": "d502e9ce-9db6-44ed-aa0d-8770ceb48cfe",
+            "id": "118",
+            "name": "Flashing Firmware",
+            "type": "url",
+            "url": "https://docs.qmk.fm/#/newbs_flashing"
+         }, {
+            "date_added": "13353442566000000",
+            "date_last_used": "0",
+            "guid": "8754b159-171a-4638-b3a2-693f2328f140",
+            "id": "119",
+            "name": "Adafruit_Arduino_Boards/bootloaders/caterina/Caterina-Atmega32u4.hex at master · adafruit/Adafruit_Arduino_Boards",
+            "type": "url",
+            "url": "https://github.com/adafruit/Adafruit_Arduino_Boards/blob/master/bootloaders/caterina/Caterina-Atmega32u4.hex"
+         }, {
+            "date_added": "13353693860000000",
+            "date_last_used": "0",
+            "guid": "3991e8a7-2987-4158-b45d-1c31645191ce",
+            "id": "120",
+            "name": "c++ faq - The Definitive C++ Book Guide and List - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list"
+         }, {
+            "date_added": "13353878067000000",
+            "date_last_used": "0",
+            "guid": "e70bbb6c-fd03-43ff-aa89-fb44933aa0f4",
+            "id": "121",
+            "name": "Subtitles - download movie and TV Series subtitles",
+            "type": "url",
+            "url": "https://www.opensubtitles.org/en/search/subs"
+         }, {
+            "date_added": "13354060511000000",
+            "date_last_used": "0",
+            "guid": "d2dcd1c7-fd09-404b-8eb9-c93b826096a2",
+            "id": "122",
+            "name": "May not launch openvpn service only on ArchLinux · Issue #1155 · angristan/openvpn-install",
+            "type": "url",
+            "url": "https://github.com/angristan/openvpn-install/issues/1155"
+         }, {
+            "date_added": "13354937724000000",
+            "date_last_used": "0",
+            "guid": "4fa7e594-bfa2-4d37-8d55-521ccebd6895",
+            "id": "123",
+            "name": "B550M Steel Legend.pdf",
+            "type": "url",
+            "url": "https://download.asrock.com/Manual/B550M%20Steel%20Legend.pdf"
+         }, {
+            "date_added": "13354999998000000",
+            "date_last_used": "0",
+            "guid": "c3c583c0-2026-41f3-8f61-cdc756d7f360",
+            "id": "124",
+            "name": "Internet Archive: Wayback Machine",
+            "type": "url",
+            "url": "https://archive.org/web/"
+         }, {
+            "date_added": "13355000386000000",
+            "date_last_used": "0",
+            "guid": "a6fc5b21-425f-4f63-ab8b-84b643196c8b",
+            "id": "125",
+            "name": "phpMyAdmin",
+            "type": "url",
+            "url": "https://www.phpmyadmin.net/"
+         }, {
+            "date_added": "13355001714000000",
+            "date_last_used": "0",
+            "guid": "28e384d6-80d9-4a45-a738-3ee2f79fe338",
+            "id": "126",
+            "name": "WiGLE: Wireless Network Mapping",
+            "type": "url",
+            "url": "https://www.wigle.net/"
+         }, {
+            "date_added": "13355244704000000",
+            "date_last_used": "0",
+            "guid": "6a499dfa-207f-49b9-a112-a578a44087eb",
+            "id": "127",
+            "name": "131492.pdf",
+            "type": "url",
+            "url": "https://manglar.uninorte.edu.co/bitstream/handle/10584/8065/131492.pdf?sequence=1&isAllowed=y"
+         }, {
+            "date_added": "13355333080000000",
+            "date_last_used": "0",
+            "guid": "2fc8cc9d-f302-4d27-8b71-b830f4950957",
+            "id": "128",
+            "name": "STIC 140 A6 RFS-PAM.pdf",
+            "type": "url",
+            "url": "https://www.ccn-cert.cni.es/es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3884-guia-140-anexo-a-6-gestion-de-acceso-privilegiado-pam/file?format=html"
+         }, {
+            "date_added": "13355333143000000",
+            "date_last_used": "0",
+            "guid": "68f580db-863f-4c18-9909-9c9332be110f",
+            "id": "129",
+            "name": "Buyer-s-Guide-for-Complete-Privileged-Access-Management-PAM-SPA_small.pdf",
+            "type": "url",
+            "url": "https://assets.beyondtrust.com/assets/documents/Buyer-s-Guide-for-Complete-Privileged-Access-Management-PAM-SPA_small.pdf"
+         }, {
+            "date_added": "13355577282000000",
+            "date_last_used": "0",
+            "guid": "9f1da996-cdcf-4b44-83a6-37a62a24ba8e",
+            "id": "130",
+            "name": "NIST 800-53, gestión de acceso privilegiado y privilegios mínimos",
+            "type": "url",
+            "url": "https://delinea.com/blog/nist-800-53-security-privacy-privileged-access"
+         }, {
+            "date_added": "13355577354000000",
+            "date_last_used": "0",
+            "guid": "dcdd4f31-11fe-4bd7-9376-b425127ba459",
+            "id": "131",
+            "name": "Capítulo 10. Uso de módulos de autenticación conectables (PAM) Red Hat Enterprise Linux 7 | Portal del cliente de Red Hat",
+            "type": "url",
+            "url": "https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/7/html/system-level_authentication_guide/pluggable_authentication_modules"
+         }, {
+            "date_added": "13356809443000000",
+            "date_last_used": "0",
+            "guid": "25bf691c-2d99-41a0-aec0-c9d640d280a8",
+            "id": "132",
+            "name": "WiFi Pineapple - Hak5",
+            "type": "url",
+            "url": "https://shop.hak5.org/products/wifi-pineapple"
+         }, {
+            "date_added": "13357264094000000",
+            "date_last_used": "0",
+            "guid": "ea08ef75-63cf-4cbe-b1bc-da277712a62e",
+            "id": "133",
+            "name": "Practical Bug Bounty | TCM Security, Inc.",
+            "type": "url",
+            "url": "https://academy.tcm-sec.com/p/practical-bug-bounty?affcode=770707_yveqjrr8"
+         }, {
+            "date_added": "13357325945000000",
+            "date_last_used": "0",
+            "guid": "e1bbdcfd-a0eb-4758-ba84-e050c7f73c75",
+            "id": "134",
+            "name": "MS12–020 — Exploit. CVE-2012–0002, CVE-2012–0152 | by Rajesh | Medium",
+            "type": "url",
+            "url": "https://rootedshell.medium.com/ms12-020-8625e74fb433"
+         }, {
+            "date_added": "13357445427000000",
+            "date_last_used": "0",
+            "guid": "042b7a8b-a380-4e73-9e2d-73560ba240bf",
+            "id": "135",
+            "name": "GAR/configs/picom/picom.conf at master · GatoImorrivel/GAR",
+            "type": "url",
+            "url": "https://github.com/GatoImorrivel/GAR/blob/master/configs/picom/picom.conf"
+         }, {
+            "date_added": "13357817033000000",
+            "date_last_used": "0",
+            "guid": "3532bcbb-e497-4359-a7f5-1be94b50a8d5",
+            "id": "136",
+            "name": "Search Swiss Re Careers | Swiss Re",
+            "type": "url",
+            "url": "https://www.swissre.com/careers/jobSearch.html?searchterm=&country=ES&city=Madrid#slide-4"
+         }, {
+            "date_added": "13357838918000000",
+            "date_last_used": "0",
+            "guid": "eca7c670-06f7-4ef1-98a7-5f1e2c7a48b2",
+            "id": "137",
+            "name": "Launchpad - Immersive Labs",
+            "type": "url",
+            "url": "https://madrid4tech.immersivelabs.online/"
+         }, {
+            "date_added": "13357867651000000",
+            "date_last_used": "0",
+            "guid": "6817a57a-d3f0-473e-9494-1160459486d4",
+            "id": "138",
+            "name": "http://pwnable.kr/index.php",
+            "type": "url",
+            "url": "http://pwnable.kr/index.php"
+         }, {
+            "date_added": "13357934403000000",
+            "date_last_used": "0",
+            "guid": "f39ac296-a180-4c8b-84ea-90d1b8aa5287",
+            "id": "139",
+            "name": "http://pwnable.kr/",
+            "type": "url",
+            "url": "http://pwnable.kr/"
+         }, {
+            "date_added": "13358561039000000",
+            "date_last_used": "0",
+            "guid": "de5796e7-dfa0-4bba-8833-5834b84f6251",
+            "id": "140",
+            "name": "Command Challenge!",
+            "type": "url",
+            "url": "https://cmdchallenge.com/#/list_files"
+         }, {
+            "date_added": "13358623161000000",
+            "date_last_used": "0",
+            "guid": "83dc1a11-ff19-4320-9ad8-ff5dab8c3db3",
+            "id": "141",
+            "name": "Text to ASCII Art Generator (TAAG)",
+            "type": "url",
+            "url": "https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20"
+         }, {
+            "date_added": "13358884592000000",
+            "date_last_used": "0",
+            "guid": "d0b384fa-aee6-457d-bf35-d066a136d527",
+            "id": "142",
+            "name": "de4js | JavaScript Deobfuscator and Unpacker",
+            "type": "url",
+            "url": "https://lelinhtinh.github.io/de4js/"
+         }, {
+            "date_added": "13358891166000000",
+            "date_last_used": "0",
+            "guid": "64d3425b-834c-4dcc-85b6-44b819104350",
+            "id": "143",
+            "name": "rot13.com",
+            "type": "url",
+            "url": "https://rot13.com/"
+         }, {
+            "date_added": "13360867554000000",
+            "date_last_used": "0",
+            "guid": "277dea72-0b0c-458e-9bb5-beb41c06e608",
+            "id": "144",
+            "name": "GLIDER.es – Forensic, Hacking & Cibersecurity",
+            "type": "url",
+            "url": "https://glider.es/"
+         }, {
+            "date_added": "13362252205000000",
+            "date_last_used": "0",
+            "guid": "acec0d0c-6097-40ae-afb0-9283bb916470",
+            "id": "145",
+            "name": "PayloadsAllTheThings/Server Side Template Injection at master · swisskyrepo/PayloadsAllTheThings",
+            "type": "url",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#exploit-the-ssti-by-calling-subprocesspopen"
+         }, {
+            "date_added": "13362253176000000",
+            "date_last_used": "0",
+            "guid": "cec7b7e3-7c3a-460d-a8c3-4728177b9b3d",
+            "id": "146",
+            "name": "Full TTYs | HackTricks | HackTricks",
+            "type": "url",
+            "url": "https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/full-ttys"
+         }, {
+            "date_added": "13362858422000000",
+            "date_last_used": "0",
+            "guid": "be490875-c8e2-425b-83fa-b2919f735d90",
+            "id": "147",
+            "name": "Epoch Converter - Unix Timestamp Converter",
+            "type": "url",
+            "url": "https://www.epochconverter.com/"
+         }, {
+            "date_added": "13363720196000000",
+            "date_last_used": "0",
+            "guid": "84e76369-cac6-4012-81b5-07ccb90e1577",
+            "id": "148",
+            "name": "Free online network tools - traceroute, nslookup, dig, whois lookup, ping - IPv6",
+            "type": "url",
+            "url": "https://centralops.net/co/"
+         }, {
+            "date_added": "13363894708000000",
+            "date_last_used": "0",
+            "guid": "556ebbbe-e8da-4c9e-9eaa-03f9df34944b",
+            "id": "149",
+            "name": "AUR (en) - armitage-git",
+            "type": "url",
+            "url": "https://aur.archlinux.org/packages/armitage-git"
+         }, {
+            "date_added": "13364327285000000",
+            "date_last_used": "0",
+            "guid": "fd95f469-96d1-4558-8ecc-65f725e27e7b",
+            "id": "150",
+            "name": "hackerhq | cyber security jobs | USA Today | HTB writeup",
+            "type": "url",
+            "url": "http://www.hackerhq.tech/"
+         }, {
+            "date_added": "13365017255000000",
+            "date_last_used": "0",
+            "guid": "4ff971d3-0a7a-4d43-9441-f7cc309517d4",
+            "id": "151",
+            "name": "TCM Security, Inc.",
+            "type": "url",
+            "url": "https://academy.tcm-sec.com/"
+         }, {
+            "date_added": "13365637664000000",
+            "date_last_used": "0",
+            "guid": "5536cf5f-9504-4fc1-8e77-251350881a92",
+            "id": "152",
+            "name": "Ticketmaster - Mi Cuenta",
+            "type": "url",
+            "url": "https://www.ticketmaster.es/user/order/12xXMevqbeM_vmrx-7vqJsU-WqKFJd-tGy55/40929/view"
+         }, {
+            "date_added": "13370367465000000",
+            "date_last_used": "0",
+            "guid": "7cb8146f-4435-4721-95be-b5ffc6c3695f",
+            "id": "153",
+            "name": "221_Teorica_Comun_B.pdf",
+            "type": "url",
+            "url": "https://autoescolamatadepera.cat/z/upload/file/221_Teorica_Comun_B.pdf"
+         }, {
+            "date_added": "13370367900000000",
+            "date_last_used": "0",
+            "guid": "18db7c73-edbd-4db0-8274-ac69f69880a3",
+            "id": "154",
+            "name": "Surf Forecast and Surf Reports Worldwide | Surf-forecast.com",
+            "type": "url",
+            "url": "https://www.surf-forecast.com/"
+         }, {
+            "date_added": "13370367904000000",
+            "date_last_used": "0",
+            "guid": "2dc85f79-562b-4dc9-aa06-31f20e813f2b",
+            "id": "155",
+            "name": "Camaramar",
+            "type": "url",
+            "url": "https://www.camaramar.com/"
+         }, {
+            "date_added": "13371207221000000",
+            "date_last_used": "0",
+            "guid": "18c07f3c-330d-4203-9a6e-71c9b334cb93",
+            "id": "156",
+            "name": "Ex Escuela de Surf,Paddle Surf y Bodyboard en A Coruña, Namarea.",
+            "type": "url",
+            "url": "https://namarea.com/"
+         }, {
+            "date_added": "13373546938000000",
+            "date_last_used": "0",
+            "guid": "ee59ebf3-e734-443f-9179-dfb5df260973",
+            "id": "157",
+            "name": "Vite | Herramienta frontend de próxima generación",
+            "type": "url",
+            "url": "https://es.vitejs.dev/"
+         }, {
+            "date_added": "13373670208000000",
+            "date_last_used": "0",
+            "guid": "2b4a8132-53e5-4aef-b53b-ba14ed24ca14",
+            "id": "158",
+            "name": "Trans Picos Europa",
+            "type": "url",
+            "url": "https://trans-picoseuropa.com/"
+         }, {
+            "date_added": "13374540490000000",
+            "date_last_used": "0",
+            "guid": "1e92768c-2493-4799-bdf5-01af216454ec",
+            "id": "159",
+            "name": "Free Download Books",
+            "type": "url",
+            "url": "https://oceanofpdf.com/"
+         }, {
+            "date_added": "13374761500000000",
+            "date_last_used": "0",
+            "guid": "48cf8f48-c578-4e19-88f9-c106cbc331fb",
+            "id": "160",
+            "name": "musicForProgramming();",
+            "type": "url",
+            "url": "https://musicforprogramming.net/latest/"
+         }, {
+            "date_added": "13375275740000000",
+            "date_last_used": "0",
+            "guid": "b49e20e1-7d48-49c6-b46c-a71adcb0103d",
+            "id": "161",
+            "name": "Cisco Networking Academy",
+            "type": "url",
+            "url": "https://www.netacad.com/catalogs/learn"
+         }, {
+            "date_added": "13375277830000000",
+            "date_last_used": "0",
+            "guid": "5db8e0bc-9567-4ce4-b7df-982e22c07a86",
+            "id": "162",
+            "name": "Welcome to English for IT Intermediate Part 1",
+            "type": "url",
+            "url": "https://edube.org/learn/eit1/welcome-to-english-for-it-1#course-introduction"
+         }, {
+            "date_added": "13375360358000000",
+            "date_last_used": "0",
+            "guid": "3a682449-d7b3-429e-97f9-3580302c7df7",
+            "id": "163",
+            "name": "Subnet-Guide.xlsx - Hojas de cálculo de Google",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1ETKH31-E7G-7ntEOlWGZcDZWuukmeHFe/edit?gid=1394237865#gid=1394237865"
+         }, {
+            "date_added": "13375450494000000",
+            "date_last_used": "0",
+            "guid": "1181de66-7555-4e3f-9457-2046c31389ca",
+            "id": "164",
+            "name": "Grammar: The Emphatic \"do\"",
+            "type": "url",
+            "url": "https://edube.org/learn/eit1/grammar-the-emphatic-quot-doquot#video-summary"
+         }, {
+            "date_added": "13375793825000000",
+            "date_last_used": "0",
+            "guid": "1ce79c7f-5764-4519-b5aa-d4dad5c4b7ea",
+            "id": "165",
+            "name": "curso-ccst-cisco (Channel) - New Workspace - Slack",
+            "type": "url",
+            "url": "https://app.slack.com/client/T080ADTT0F4/C07T0UUQVN0?skip_onboarding=1"
+         }, {
+            "date_added": "13375797238000000",
+            "date_last_used": "0",
+            "guid": "9c5d04da-66bf-403f-a2b8-dbaad7495e9d",
+            "id": "166",
+            "name": "Email Dossier - Investigate email addresses",
+            "type": "url",
+            "url": "https://centralops.net/co/emaildossier.aspx"
+         }, {
+            "date_added": "13375797694000000",
+            "date_last_used": "0",
+            "guid": "c7a67155-ac56-4ff5-a140-14f637918095",
+            "id": "167",
+            "name": "OSINT Training Center - Aware Online",
+            "type": "url",
+            "url": "https://www.aware-online.com/en/"
+         }, {
+            "date_added": "13375877675000000",
+            "date_last_used": "0",
+            "guid": "906cfaaf-82c3-49a2-a0f6-2e274f478985",
+            "id": "168",
+            "name": "Área personal | Campus FAD",
+            "type": "url",
+            "url": "https://www.campusfad.org/formacion/cursos/my/"
+         }, {
+            "date_added": "13376744981000000",
+            "date_last_used": "0",
+            "guid": "e6c92d39-97f7-4e5d-8051-da2e83b217d7",
+            "id": "169",
+            "name": "OSINT Framework",
+            "type": "url",
+            "url": "https://osintframework.com/"
+         }, {
+            "date_added": "13376745641000000",
+            "date_last_used": "0",
+            "guid": "2c0b6724-2b1b-4319-84b0-4bec1c685cc3",
+            "id": "170",
+            "name": "Medium",
+            "type": "url",
+            "url": "https://medium.com/"
+         }, {
+            "date_added": "13376954985000000",
+            "date_last_used": "0",
+            "guid": "b127d2b1-a0a9-407c-aab3-277752d1eccf",
+            "id": "171",
+            "name": "Yandex — a fast Internet search",
+            "type": "url",
+            "url": "https://yandex.com/"
+         }, {
+            "date_added": "13376955041000000",
+            "date_last_used": "0",
+            "guid": "a0e2af77-339f-4b4f-a35f-9345830c6a3f",
+            "id": "172",
+            "name": "U GG: The Best League of Legends Builds LoL Build Champion Probuilds LoL Runes Tier List Counters Guides",
+            "type": "url",
+            "url": "https://u.gg/"
+         }, {
+            "date_added": "13376959636000000",
+            "date_last_used": "0",
+            "guid": "94c9d4a7-fd1a-47a7-a944-5f9fb224f059",
+            "id": "173",
+            "name": "[VESSEL OF HATRED] Dual Core Rapid Fire Flurry - Rogue Leveling Build for Diablo 4 - Icy Veins",
+            "type": "url",
+            "url": "https://www.icy-veins.com/d4/guides/dual-core-rapid-fire-flurry-rogue-leveling-build/"
+         }, {
+            "date_added": "13377025145000000",
+            "date_last_used": "0",
+            "guid": "f8a2c1cd-fc71-48ce-89c8-44f9a5a134f4",
+            "id": "174",
+            "name": "We Leak Info - Leaked Dehashed Databases",
+            "type": "url",
+            "url": "https://weleakinfo.io/"
+         }, {
+            "date_added": "13377025722000000",
+            "date_last_used": "0",
+            "guid": "12c72e46-f08f-4c68-b450-e5327dd7f427",
+            "id": "175",
+            "name": "#1 Crowdsourced Cybersecurity Platform | Bugcrowd",
+            "type": "url",
+            "url": "https://www.bugcrowd.com/"
+         }, {
+            "date_added": "13377600685000000",
+            "date_last_used": "0",
+            "guid": "469986c5-0147-4a57-bb32-6204738336da",
+            "id": "176",
+            "name": "Especialistas en ciberseguridad y ciberinteligencia | Tarlogic",
+            "type": "url",
+            "url": "https://www.tarlogic.com/es/"
+         }, {
+            "date_added": "13377654393000000",
+            "date_last_used": "0",
+            "guid": "451bbfd3-cded-42ce-af59-742d2f76bc76",
+            "id": "177",
+            "name": "BOOX Shop – The Official BOOX Store",
+            "type": "url",
+            "url": "https://shop.boox.com/"
+         }, {
+            "date_added": "13378485317000000",
+            "date_last_used": "0",
+            "guid": "9a7b9d30-cbb8-4988-8042-8b2f7d8da001",
+            "id": "178",
+            "name": "CyberChef",
+            "type": "url",
+            "url": "https://gchq.github.io/CyberChef/"
+         }, {
+            "date_added": "13379015090000000",
+            "date_last_used": "0",
+            "guid": "6b7ae2d7-42cd-49fe-816b-6c97d74281c6",
+            "id": "179",
+            "name": "Relume — Websites designed & built faster with AI | AI website builder",
+            "type": "url",
+            "url": "https://www.relume.io/"
+         }, {
+            "date_added": "13380625016000000",
+            "date_last_used": "0",
+            "guid": "cabfce05-c05a-426a-a2c6-7561b875708e",
+            "id": "180",
+            "name": "Modern C - modernC.pdf",
+            "type": "url",
+            "url": "https://inria.hal.science/hal-02383654v2/file/modernC.pdf"
+         }, {
+            "date_added": "13380625191000000",
+            "date_last_used": "0",
+            "guid": "5bb14671-5191-4ebf-81bf-eadf0ff3ed2d",
+            "id": "181",
+            "name": "Expert C Programming - Expert_C_Programming.pdf",
+            "type": "url",
+            "url": "https://progforperf.github.io/Expert_C_Programming.pdf"
+         }, {
+            "date_added": "13382054502000000",
+            "date_last_used": "0",
+            "guid": "2930bfa0-e8bc-431e-b05f-15933bef46b6",
+            "id": "182",
+            "name": "Shielder - A Journey From \u003Ccode>sudo iptables\u003C/code> To Local Privilege Escalation",
+            "type": "url",
+            "url": "https://www.shielder.com/blog/2024/09/a-journey-from-sudo-iptables-to-local-privilege-escalation/"
+         }, {
+            "date_added": "13382191879000000",
+            "date_last_used": "0",
+            "guid": "e18a945e-2299-4f9d-a7ed-49efe94debef",
+            "id": "183",
+            "name": "Blog - Exploiting Empire C2 Framework",
+            "type": "url",
+            "url": "https://aceresponder.com/blog/exploiting-empire-c2-framework"
+         }, {
+            "date_added": "13382469134000000",
+            "date_last_used": "0",
+            "guid": "a034cdbd-70bd-4dc9-8fbd-dc76e4dbf6f0",
+            "id": "184",
+            "name": "RedTeaming_CheatSheet/windows-ad/Domain-Privilege-Escalation.md at main · 0xJs/RedTeaming_CheatSheet",
+            "type": "url",
+            "url": "https://github.com/0xJs/RedTeaming_CheatSheet/blob/main/windows-ad/Domain-Privilege-Escalation.md?source=post_page-----6725de2a8235--------------------------------#Writeowner-of-an-object---Change-the-owner"
+         }, {
+            "date_added": "13382526262000000",
+            "date_last_used": "0",
+            "guid": "aff5519c-5d9a-490c-bd12-6a2bf165b802",
+            "id": "185",
+            "name": "DeepSeek - Into the Unknown",
+            "type": "url",
+            "url": "https://chat.deepseek.com/"
+         }, {
+            "date_added": "13383696619000000",
+            "date_last_used": "0",
+            "guid": "1565543f-14ad-498a-8568-f1f575eb931b",
+            "id": "186",
+            "name": "Daigo | Cuaderno Isshoni Mini Clear (Cuadros)",
+            "type": "url",
+            "url": "https://entropiapaperstore.com/products/daigo-cuaderno-isshoni-mini-clear-cuadros"
+         }, {
+            "date_added": "13383834600000000",
+            "date_last_used": "0",
+            "guid": "220db7ed-9e59-4ff2-8a0e-00d06f042c54",
+            "id": "187",
+            "name": "Anuncios segunda mano Tablas de Surf - Watsay en buen estado",
+            "type": "url",
+            "url": "https://www.surfmarket.org/es/segunda-mano/todos-los-anuncios/1-tablas-de-surf/11322-watsay-en-buen-estado"
+         }, {
+            "date_added": "13383835010000000",
+            "date_last_used": "0",
+            "guid": "6010b7ec-2577-429f-a4cd-74602135da20",
+            "id": "188",
+            "name": "Anuncios segunda mano Tablas de Surf - Tabla de surf styling 5,8",
+            "type": "url",
+            "url": "https://www.surfmarket.org/es/segunda-mano/todos-los-anuncios/1-tablas-de-surf/14009-tabla-de-surf-styling-5-8"
+         }, {
+            "date_added": "13384381430000000",
+            "date_last_used": "0",
+            "guid": "330cd4f6-43d3-459a-a278-4c700323c3e5",
+            "id": "189",
+            "name": "mcs.pdf",
+            "type": "url",
+            "url": "https://people.csail.mit.edu/meyer/mcs.pdf"
+         }, {
+            "date_added": "13384442287000000",
+            "date_last_used": "0",
+            "guid": "3babd746-2823-4e9e-8560-7f1f6694abd9",
+            "id": "190",
+            "name": "AI PDF Chatbot: Chat with PDF for Instant Answers",
+            "type": "url",
+            "url": "https://pdf.wondershare.com/chat-with-pdf.html"
+         }, {
+            "date_added": "13385130179000000",
+            "date_last_used": "0",
+            "guid": "820de95a-ca7d-4d40-9920-b5903ef32328",
+            "id": "191",
+            "name": "What Youth",
+            "type": "url",
+            "url": "https://whatyouthsurf.com/"
+         }, {
+            "date_added": "13385216816000000",
+            "date_last_used": "0",
+            "guid": "ca974197-8b69-4302-9bea-1de46b8f5142",
+            "id": "192",
+            "name": "Submitted reports - YesWeHack",
+            "type": "url",
+            "url": "https://yeswehack.com/reports"
+         }, {
+            "date_added": "13385478924000000",
+            "date_last_used": "0",
+            "guid": "828d3f4a-1a43-4735-a940-ecfb8680cc43",
+            "id": "193",
+            "name": "Unidades relativas - CSS en español",
+            "type": "url",
+            "url": "https://lenguajecss.com/css/unidades-css/relativas/"
+         }, {
+            "date_added": "13385646270000000",
+            "date_last_used": "0",
+            "guid": "b079d748-79e5-4530-a535-dffa52aba496",
+            "id": "194",
+            "name": "Claude",
+            "type": "url",
+            "url": "https://claude.ai/chat/8497b103-8fc3-4fd4-b82b-e408deed3c2c"
+         }, {
+            "date_added": "13385819728000000",
+            "date_last_used": "0",
+            "guid": "f3a4ebe6-c9ca-44b2-8f06-d4b518b2de40",
+            "id": "195",
+            "name": "https://pwnable.kr/",
+            "type": "url",
+            "url": "https://pwnable.kr/"
+         }, {
+            "date_added": "13386341904000000",
+            "date_last_used": "0",
+            "guid": "4dc719d6-af98-4b6d-9d86-75eb432bef45",
+            "id": "196",
+            "name": "R GO TOOLS R-GO Split Teclado Ergonã“Mico, QWERTY (US), Negro, Cableada : Amazon.es: Informática",
+            "type": "url",
+            "url": "https://www.amazon.es/Split-Ergonomic-Keyboard-Layout-QWERTY/dp/B071GCDWN7?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11A4AAJBASVL7&dib=eyJ2IjoiMSJ9.BLXHryQS6YO9rcwJEcdsXJOajP0WnPKPlo_ZjxuG7pFoCwJptE4TpCa1AERDaY-vJORtj5rY7WtyVsCA5t67xR7BPJNeg04gH9sO4PKTIbXM8GIpkyOceVSwUENVJEY-tTCLN34Meoj_yS3g3ba9h5ELVadbAn8PpUt5fjlXw9myo_rBqUfsjN1iUCnchqNhdUyyBM-MEpUJY4vDpgGmxFpqgC28u0CutSuYiyrbHk2CLdO_VuSj8Opt-Ih2GuqkoYA2kKgZIFp_IasS94Ik7KvpvEbBWJ378gwhtIzvk5QHiz2oLRf0tjlV6Ht7fu-Zos79Kk7xd8sIJ3NtmOPQPzzSyNO7LAIn3Ady-bPMEwolGJIpIfaNXoa-J4nxyqZ0q9FU1GYqPPU_UDgfIpfUfs_-8_tbXvJ-AzsGfywDfwQ0ikPUqNNujyX3aizKEEpE.rcQeBcj8wBzllmZNNfdZ7_iJdkI5_h22b9_zBu1DdeQ&dib_tag=se&keywords=ergo+keyboard&qid=1741868266&sprefix=ergo+keyboard%2Caps%2C96&sr=8-51&xpid=KPm9u0k9jVH_1"
+         }, {
+            "date_added": "13386760029000000",
+            "date_last_used": "0",
+            "guid": "525e76ed-0525-4d0e-baf5-e3de377e2737",
+            "id": "197",
+            "name": "crt.sh | Certificate Search",
+            "type": "url",
+            "url": "https://crt.sh/"
+         }, {
+            "date_added": "13386846165000000",
+            "date_last_used": "0",
+            "guid": "28b957b8-7ec2-471b-918f-e84665b088e5",
+            "id": "198",
+            "name": "Wayback Machine",
+            "type": "url",
+            "url": "https://web.archive.org/"
+         }, {
+            "date_added": "13387026692000000",
+            "date_last_used": "0",
+            "guid": "0122ef55-0d51-4824-abd3-6296b4dcc597",
+            "id": "199",
+            "name": "Security Code Review 101. Code review is, hopefully, part of… | by Paul Ionescu | Medium",
+            "type": "url",
+            "url": "https://medium.com/@paul_io/security-code-review-101-a3c593dc6854"
+         }, {
+            "date_added": "13387375358000000",
+            "date_last_used": "0",
+            "guid": "a741d028-f334-438d-bc8d-99344d8781cd",
+            "id": "200",
+            "name": "Developer Roadmaps",
+            "type": "url",
+            "url": "https://roadmap.sh/roadmaps"
+         }, {
+            "date_added": "13388660542000000",
+            "date_last_used": "0",
+            "guid": "fdfe6ad1-75dd-4d10-913c-7f9f8f37e6dc",
+            "id": "201",
+            "name": "Crafting Interpreters",
+            "type": "url",
+            "url": "https://craftinginterpreters.com/"
+         }, {
+            "date_added": "13388752237000000",
+            "date_last_used": "0",
+            "guid": "698c0942-78d6-46fc-a78b-a0438e51930c",
+            "id": "202",
+            "name": "Handmade Network",
+            "type": "url",
+            "url": "https://handmade.network/"
+         }, {
+            "date_added": "13388756783000000",
+            "date_last_used": "0",
+            "guid": "8e8d83ec-64e0-4922-b89b-c1daca408c63",
+            "id": "203",
+            "name": "ASCII table - Table of ASCII codes, characters and symbols",
+            "type": "url",
+            "url": "https://www.ascii-code.com/"
+         }, {
+            "date_added": "13388837015000000",
+            "date_last_used": "0",
+            "guid": "893188a5-a0ce-457e-b464-4b75804b4641",
+            "id": "204",
+            "name": "List of file signatures - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+         }, {
+            "date_added": "13389276347000000",
+            "date_last_used": "0",
+            "guid": "961ad24c-90ce-476d-8d00-76cfb5950f85",
+            "id": "205",
+            "name": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+            "type": "url",
+            "url": "https://thepiratebay.org/description.php?id=77331947"
+         }, {
+            "date_added": "13389879853000000",
+            "date_last_used": "0",
+            "guid": "2a2723a5-df19-40dc-a3d7-f618c7f26862",
+            "id": "206",
+            "name": "EliteKits",
+            "type": "url",
+            "url": "https://elitekitss.com/"
+         }, {
+            "date_added": "13389880253000000",
+            "date_last_used": "0",
+            "guid": "44ec7bb9-cd82-4809-8919-db4f838acd1c",
+            "id": "207",
+            "name": "KEEBD - Keyboards, Cases, Switches, Parts and Accessories",
+            "type": "url",
+            "url": "https://keebd.com/"
+         }, {
+            "date_added": "13390394107000000",
+            "date_last_used": "0",
+            "guid": "911f4908-d3fb-4e09-9c83-a1637d7f94b5",
+            "id": "208",
+            "name": "Cyber Security Roadmap: Learn to become a Cyber Security Expert",
+            "type": "url",
+            "url": "https://roadmap.sh/cyber-security"
+         }, {
+            "date_added": "13391009684000000",
+            "date_last_used": "0",
+            "guid": "e4e253ae-da9d-4471-96c6-6ed7f92b030e",
+            "id": "209",
+            "name": "Themes | Theme Plaza",
+            "type": "url",
+            "url": "https://themeplaza.art/themes?sort=most-downloaded"
+         }, {
+            "date_added": "13391044102000000",
+            "date_last_used": "0",
+            "guid": "d507fc6b-01d0-458d-863b-52d5d39eef38",
+            "id": "210",
+            "name": "Get Started | 3DS Hacks Guide",
+            "type": "url",
+            "url": "https://3ds.hacks.guide/get-started.html"
+         }, {
+            "date_added": "13391044172000000",
+            "date_last_used": "0",
+            "guid": "dab97c67-1b0a-4e75-82c5-d8bba20f1dee",
+            "id": "211",
+            "name": "Fat Yoshi 3DS | Theme Plaza",
+            "type": "url",
+            "url": "https://themeplaza.art/item/37816"
+         }, {
+            "date_added": "13391250085000000",
+            "date_last_used": "0",
+            "guid": "9b2ce44a-5955-450c-b7a3-c0e28b1c0458",
+            "id": "212",
+            "name": "Default Passwords | CIRT.net",
+            "type": "url",
+            "url": "https://www.cirt.net/passwords"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13310422018000000",
+                  "date_last_used": "0",
+                  "guid": "10b65d3b-a8f8-4c69-addd-479969c36162",
+                  "id": "215",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13310422018000000",
+                  "date_last_used": "0",
+                  "guid": "769d0874-b6d2-4a90-9264-0e896c6e2132",
+                  "id": "216",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13310422018000000",
+                  "date_last_used": "0",
+                  "guid": "d04484f6-2f69-4749-8caa-63c1d42d3734",
+                  "id": "217",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13310422018000000",
+                  "date_last_used": "0",
+                  "guid": "7f9b2123-6e57-4757-8fa2-9309e5f30d54",
+                  "id": "218",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               }, {
+                  "date_added": "13327453268000000",
+                  "date_last_used": "0",
+                  "guid": "fcd6aedc-8c4c-44cb-bb6b-322b97f82087",
+                  "id": "219",
+                  "name": "Obtener ayuda",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13327453268000000",
+                  "date_last_used": "0",
+                  "guid": "0ca20ff9-0df8-4714-af07-52afd4c7cec3",
+                  "id": "220",
+                  "name": "Personalice Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13327453268000000",
+                  "date_last_used": "0",
+                  "guid": "00396a05-769c-487c-9a32-c8bfe24b5bf4",
+                  "id": "221",
+                  "name": "Involúcrese",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13327453268000000",
+                  "date_last_used": "0",
+                  "guid": "a5a2d1f8-3081-41b0-bf5f-9030b8d2fb5b",
+                  "id": "222",
+                  "name": "Acerca de nosotros",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13391855927465450",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "7498fa08-d64f-4369-9ec3-dc4c528cafbf",
+               "id": "214",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            } ],
+            "date_added": "13391855927465423",
+            "date_last_used": "0",
+            "date_modified": "13391855927465423",
+            "guid": "d171eb32-d2f8-4889-b911-f86a7e2dd54e",
+            "id": "213",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13382541165000000",
+                  "date_last_used": "0",
+                  "guid": "c0fb4c70-73e5-4fad-96b1-f25b0b644f0e",
+                  "id": "225",
+                  "name": "Exploit-DB",
+                  "type": "url",
+                  "url": "https://www.exploit-db.com/"
+               }, {
+                  "date_added": "13382541166000000",
+                  "date_last_used": "0",
+                  "guid": "e4e3ef5f-4528-42f3-9b9d-69b15ee60c73",
+                  "id": "226",
+                  "name": "Google Hacking DB",
+                  "type": "url",
+                  "url": "https://www.exploit-db.com/google-hacking-database"
+               }, {
+                  "date_added": "13340389795000000",
+                  "date_last_used": "0",
+                  "guid": "2baa0480-21e9-4104-894b-4e5b45349d16",
+                  "id": "227",
+                  "name": "YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/"
+               }, {
+                  "date_added": "13339605634000000",
+                  "date_last_used": "0",
+                  "guid": "589dead3-529e-46b2-876d-eca7601b7fd9",
+                  "id": "228",
+                  "name": "The Hacker News | #1 Trusted Cybersecurity News Site",
+                  "type": "url",
+                  "url": "https://thehackernews.com/"
+               }, {
+                  "date_added": "13364674181000000",
+                  "date_last_used": "0",
+                  "guid": "b0a21b5f-a309-4fa0-82bf-be6185d6db95",
+                  "id": "229",
+                  "name": "ChatGPT",
+                  "type": "url",
+                  "url": "https://chatgpt.com/"
+               }, {
+                  "date_added": "13387021512000000",
+                  "date_last_used": "0",
+                  "guid": "baef166e-6e08-4075-b27c-a2a6d3506d19",
+                  "id": "230",
+                  "name": "Attacking Web Applications with Ffuf",
+                  "type": "url",
+                  "url": "https://academy.hackthebox.com/module/54/section/484"
+               }, {
+                  "date_added": "13314316344000000",
+                  "date_last_used": "0",
+                  "guid": "a256f06b-ba44-4908-81a1-3dbcb1db1fe1",
+                  "id": "231",
+                  "name": "Descubre las canciones más escuchadas de Internet en SoundCloud",
+                  "type": "url",
+                  "url": "https://soundcloud.com/discover"
+               }, {
+                  "date_added": "13326766988000000",
+                  "date_last_used": "0",
+                  "guid": "e70c7ebf-9edd-421d-8855-779a020ea113",
+                  "id": "232",
+                  "name": "‎Apple Music",
+                  "type": "url",
+                  "url": "https://music.apple.com/es/library/recently-added?l=es-ES"
+               }, {
+                  "date_added": "13319036263000000",
+                  "date_last_used": "0",
+                  "guid": "2fe1b4ec-f9ec-42de-874c-052df061b6cb",
+                  "id": "233",
+                  "name": "GitHub ",
+                  "type": "url",
+                  "url": "https://github.com/"
+               }, {
+                  "date_added": "13331069848000000",
+                  "date_last_used": "0",
+                  "guid": "41c382d5-8cbb-4bbf-8d5c-9f010e4b9091",
+                  "id": "234",
+                  "name": "NeoLand",
+                  "type": "url",
+                  "url": "https://neoland.dev/color-schemes"
+               }, {
+                  "date_added": "13324438120000000",
+                  "date_last_used": "0",
+                  "guid": "f74713e4-d6eb-4561-9399-ec4769039a78",
+                  "id": "235",
+                  "name": "HackTricks - HackTricks",
+                  "type": "url",
+                  "url": "https://book.hacktricks.xyz/welcome/readme"
+               }, {
+                  "date_added": "13375800031000000",
+                  "date_last_used": "0",
+                  "guid": "16d1ff82-0beb-4e04-8b75-59a9d396abef",
+                  "id": "236",
+                  "name": "Exercism",
+                  "type": "url",
+                  "url": "https://exercism.org/tracks/c/exercises/leap/edit"
+               }, {
+                  "date_added": "13340390944000000",
+                  "date_last_used": "0",
+                  "guid": "93825492-cb52-4737-bfe1-404ca23033e9",
+                  "id": "237",
+                  "name": "YouTube Music",
+                  "type": "url",
+                  "url": "https://music.youtube.com/"
+               }, {
+                  "date_added": "13319551589000000",
+                  "date_last_used": "0",
+                  "guid": "b775e72e-db05-4fd3-922f-c6a568dfc782",
+                  "id": "238",
+                  "name": "DevDocs API Documentation",
+                  "type": "url",
+                  "url": "https://devdocs.io/"
+               }, {
+                  "date_added": "13326748064000000",
+                  "date_last_used": "0",
+                  "guid": "1fa19b73-f5da-44cf-a3e6-ff729d99cb54",
+                  "id": "239",
+                  "name": "Hack The Box :: Dashboard",
+                  "type": "url",
+                  "url": "https://app.hackthebox.com/home"
+               }, {
+                  "date_added": "13340219581000000",
+                  "date_last_used": "0",
+                  "guid": "23fd3937-bc69-432c-aefe-0c21c8ddc336",
+                  "id": "240",
+                  "name": "Exercism",
+                  "type": "url",
+                  "url": "https://exercism.org/settings/api_cli"
+               }, {
+                  "date_added": "13319900704000000",
+                  "date_last_used": "0",
+                  "guid": "d70b551f-4b01-4403-b1fc-62351cd68c58",
+                  "id": "241",
+                  "name": "JavaScript DOM Methods",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/js/js_htmldom_methods.asp"
+               }, {
+                  "date_added": "13372938525000000",
+                  "date_last_used": "0",
+                  "guid": "7969d689-239d-40be-a9d4-367a9f7228f5",
+                  "id": "242",
+                  "name": "Capstone.drawio - draw.io",
+                  "type": "url",
+                  "url": "https://app.diagrams.net/#G1Wdc4UaA2xqYiQakPdF47vX58ik6DU0Nb#%7B%22pageId%22%3A%22AtTMd_FTJwTzVN4-uCbb%22%7D"
+               }, {
+                  "date_added": "13320051138000000",
+                  "date_last_used": "0",
+                  "guid": "283c6b75-387d-4ce7-9243-2b0dc80325a5",
+                  "id": "243",
+                  "name": "W3Schools Online Web Tutorials",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/"
+               }, {
+                  "date_added": "13320214248000000",
+                  "date_last_used": "0",
+                  "guid": "da673143-41e1-4a35-b58a-aebea141f021",
+                  "id": "244",
+                  "name": "edclub",
+                  "type": "url",
+                  "url": "https://www.typingclub.com/sportal/program-3/4616.play"
+               }, {
+                  "date_added": "13321541920000000",
+                  "date_last_used": "0",
+                  "guid": "73b663db-71bd-480a-94ce-057f531ab13f",
+                  "id": "245",
+                  "name": "#1814333 CVE-2023-23915: HSTS amnesia with --parallel",
+                  "type": "url",
+                  "url": "https://hackerone.com/reports/1814333"
+               }, {
+                  "date_added": "13322232158000000",
+                  "date_last_used": "0",
+                  "guid": "3954295b-c386-4fcd-8bdf-93292b3ae491",
+                  "id": "246",
+                  "name": "Nmap Cheat Sheet 2023: All the Commands, Flags & Switches",
+                  "type": "url",
+                  "url": "https://www.stationx.net/nmap-cheat-sheet/"
+               }, {
+                  "date_added": "13325370521000000",
+                  "date_last_used": "0",
+                  "guid": "6be1e77e-a16e-44a3-84e1-51a5e960b3e7",
+                  "id": "247",
+                  "name": "Online - Reverse Shell Generator",
+                  "type": "url",
+                  "url": "https://www.revshells.com/"
+               }, {
+                  "date_added": "13326396349000000",
+                  "date_last_used": "0",
+                  "guid": "a8871741-b379-407f-8f4c-42356dd49d8f",
+                  "id": "248",
+                  "name": "Vulnerable By Design ~ VulnHub",
+                  "type": "url",
+                  "url": "https://www.vulnhub.com/"
+               }, {
+                  "date_added": "13316031301000000",
+                  "date_last_used": "0",
+                  "guid": "ea493aa8-4f48-441a-a1b8-81bf1d52108c",
+                  "id": "249",
+                  "name": "Área personal",
+                  "type": "url",
+                  "url": "https://campus.implika.es/my/"
+               }, {
+                  "date_added": "13327524418000000",
+                  "date_last_used": "0",
+                  "guid": "46b86d52-4429-4c28-84c3-9a5f1f914c94",
+                  "id": "250",
+                  "name": "Monkeytype | A minimalistic, customizable typing test",
+                  "type": "url",
+                  "url": "https://monkeytype.com/"
+               }, {
+                  "date_added": "13314392916000000",
+                  "date_last_used": "0",
+                  "guid": "6926435a-7fc0-4343-b608-bcf0f921852d",
+                  "id": "251",
+                  "name": "Network configuration (Español) - ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/title/Network_configuration_(Espa%C3%B1ol)"
+               }, {
+                  "date_added": "13314396202000000",
+                  "date_last_used": "0",
+                  "guid": "43260b60-2652-4ed7-ae90-79f313ebad7e",
+                  "id": "252",
+                  "name": "What is Cybersecurity & Importance of Cyber Security | Simplilearn",
+                  "type": "url",
+                  "url": "https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-cyber-security"
+               }, {
+                  "date_added": "13323927742000000",
+                  "date_last_used": "0",
+                  "guid": "358f7dcb-24b5-48a0-a95c-8c44a2c927ef",
+                  "id": "253",
+                  "name": "face, anime, vaporwave, colorful, birds, animals, flowers | 6144x4096 Wallpaper - wallhaven.cc",
+                  "type": "url",
+                  "url": "https://wallhaven.cc/w/1pq9kv"
+               }, {
+                  "date_added": "13314596342000000",
+                  "date_last_used": "0",
+                  "guid": "503e38d1-b5d0-4716-8f44-994476c0ed23",
+                  "id": "254",
+                  "name": "Crunchyroll - Watch Popular Anime & Read Manga Online",
+                  "type": "url",
+                  "url": "https://www.crunchyroll.com/"
+               }, {
+                  "date_added": "13314836270000000",
+                  "date_last_used": "0",
+                  "guid": "2845b903-1694-4082-a8aa-bd41a29477fa",
+                  "id": "255",
+                  "name": "PEP 8 – Style Guide for Python Code | peps.python.org",
+                  "type": "url",
+                  "url": "https://peps.python.org/pep-0008/"
+               }, {
+                  "date_added": "13315364794000000",
+                  "date_last_used": "0",
+                  "guid": "853a41f7-2206-45f7-9de1-f8a740d83155",
+                  "id": "256",
+                  "name": "`list-fonts` does not show Fira Code · Issue #827 · kovidgoyal/kitty · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/kovidgoyal/kitty/issues/827"
+               }, {
+                  "date_added": "13315624464000000",
+                  "date_last_used": "0",
+                  "guid": "90ee5f82-2a10-4a77-a078-64a8ad2d478c",
+                  "id": "257",
+                  "name": "HUNTER | Expertos en Seguridad | Monitoreo GPS, Guardianes y Alarmas.",
+                  "type": "url",
+                  "url": "https://www.hunter.com.do/"
+               }, {
+                  "date_added": "13316028762000000",
+                  "date_last_used": "0",
+                  "guid": "de827bdf-c5ec-4bdd-9edf-c5149d15afda",
+                  "id": "258",
+                  "name": "Crayon Chinchan illustration, Crayon Shin-chan Animation Television show TV Asahi Cartoon, doraemon, television, child png | PNGEgg",
+                  "type": "url",
+                  "url": "https://www.pngegg.com/en/png-zvdea"
+               }, {
+                  "date_added": "13316030039000000",
+                  "date_last_used": "0",
+                  "guid": "5eb3b525-e1b3-4001-837a-bc0683abb627",
+                  "id": "259",
+                  "name": "Mastermind",
+                  "type": "url",
+                  "url": "https://www.mastermind.ac/"
+               }, {
+                  "date_added": "13382541164000000",
+                  "date_last_used": "0",
+                  "guid": "b7cfdf9d-c65f-434a-abdf-3a3f13c8cbdc",
+                  "id": "260",
+                  "name": "Kali Forums",
+                  "type": "url",
+                  "url": "https://forums.kali.org/"
+               }, {
+                  "date_added": "13382541164000000",
+                  "date_last_used": "0",
+                  "guid": "71475d56-71cf-462f-878f-a699049b9985",
+                  "id": "261",
+                  "name": "Kali Docs",
+                  "type": "url",
+                  "url": "https://www.kali.org/docs/"
+               }, {
+                  "date_added": "13316043066000000",
+                  "date_last_used": "0",
+                  "guid": "9b422dad-cbd6-4bfb-8eab-c1f82bca74fb",
+                  "id": "262",
+                  "name": "Congratulations. This browser is configured to use Tor.",
+                  "type": "url",
+                  "url": "https://check.torproject.org/"
+               }, {
+                  "date_added": "13327582173000000",
+                  "date_last_used": "0",
+                  "guid": "ba7929c8-1f68-4569-adb9-4f8f4da86217",
+                  "id": "263",
+                  "name": "Calificaciones: Vista",
+                  "type": "url",
+                  "url": "https://campus.implika.es/grade/report/user/index.php?id=2102"
+               }, {
+                  "date_added": "13382541163000000",
+                  "date_last_used": "0",
+                  "guid": "7ac35555-5819-439c-b5cd-699f3b2c0f33",
+                  "id": "264",
+                  "name": "Kali Linux",
+                  "type": "url",
+                  "url": "https://www.kali.org/"
+               }, {
+                  "date_added": "13382541166000000",
+                  "date_last_used": "0",
+                  "guid": "2f21c489-8757-4c32-8a82-4b63a91095b6",
+                  "id": "265",
+                  "name": "OffSec",
+                  "type": "url",
+                  "url": "https://www.offsec.com/"
+               }, {
+                  "date_added": "13316113942000000",
+                  "date_last_used": "0",
+                  "guid": "a62c0a16-4a65-434e-8122-03671821bc0b",
+                  "id": "266",
+                  "name": "nvim-treesitter/nvim-treesitter: Nvim Treesitter configurations and abstraction layer",
+                  "type": "url",
+                  "url": "https://github.com/nvim-treesitter/nvim-treesitter#supported-languages"
+               }, {
+                  "date_added": "13382541165000000",
+                  "date_last_used": "0",
+                  "guid": "36b0998c-dd9a-41a6-93ed-5a8373ca182c",
+                  "id": "267",
+                  "name": "Kali NetHunter",
+                  "type": "url",
+                  "url": "https://www.kali.org/kali-nethunter/"
+               }, {
+                  "date_added": "13382541163000000",
+                  "date_last_used": "0",
+                  "guid": "54927d8c-8331-43d2-abcf-a1bfa7fe4d19",
+                  "id": "268",
+                  "name": "Kali Tools",
+                  "type": "url",
+                  "url": "https://www.kali.org/tools/"
+               }, {
+                  "date_added": "13318202182000000",
+                  "date_last_used": "0",
+                  "guid": "ad2777ac-7ef0-4fa2-bcbd-02c694298c03",
+                  "id": "269",
+                  "name": "Getting Started",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/firefox/central/"
+               }, {
+                  "date_added": "13316113987000000",
+                  "date_last_used": "0",
+                  "guid": "a2adbdb2-590c-4392-88bd-f7e0d2c156a5",
+                  "id": "270",
+                  "name": "nanotee/nvim-lua-guide: A guide to using Lua in Neovim",
+                  "type": "url",
+                  "url": "https://github.com/nanotee/nvim-lua-guide"
+               }, {
+                  "date_added": "13317855406000000",
+                  "date_last_used": "0",
+                  "guid": "bf61be45-723a-4122-a1c3-d00047cb1fea",
+                  "id": "271",
+                  "name": "Free download | HD wallpaper: painting of river in forest, body of water surrounded by trees painting | Wallpaper Flare",
+                  "type": "url",
+                  "url": "https://www.wallpaperflare.com/painting-of-river-in-forest-body-of-water-surrounded-by-trees-painting-wallpaper-mlc/download"
+               }, {
+                  "date_added": "13318409624000000",
+                  "date_last_used": "0",
+                  "guid": "29892df7-a00a-45af-ad84-8c6046233e31",
+                  "id": "272",
+                  "name": "Hot Wallpapers - wallhaven.cc",
+                  "type": "url",
+                  "url": "https://wallhaven.cc/hot?page=3"
+               }, {
+                  "date_added": "13319669811000000",
+                  "date_last_used": "0",
+                  "guid": "b2892d65-bd52-4083-b965-b7e71c04ee0b",
+                  "id": "273",
+                  "name": "Enviar una solicitud – Implika: Centro de Formación",
+                  "type": "url",
+                  "url": "https://implikaalumnos.zendesk.com/hc/es/requests/new"
+               }, {
+                  "date_added": "13320260692000000",
+                  "date_last_used": "0",
+                  "guid": "8fb12dc7-d9aa-44d2-9b92-a4c18fc3cf6f",
+                  "id": "274",
+                  "name": "BlackArch Linux, The BlackArch Linux Guide - blackarch-guide-en.pdf",
+                  "type": "url",
+                  "url": "https://blackarch.org/blackarch-guide-en.pdf"
+               }, {
+                  "date_added": "13320262948000000",
+                  "date_last_used": "0",
+                  "guid": "350d2f13-19c9-483b-93ef-f89c18d43afc",
+                  "id": "275",
+                  "name": "blackarch/packages at master · BlackArch/blackarch",
+                  "type": "url",
+                  "url": "https://github.com/BlackArch/blackarch/tree/master/packages"
+               }, {
+                  "date_added": "13320271482000000",
+                  "date_last_used": "0",
+                  "guid": "e5e11d62-d393-42fa-ab42-236aa2846168",
+                  "id": "276",
+                  "name": "Home - Marmolería José Rey",
+                  "type": "url",
+                  "url": "https://marmoleriajoserey.com/"
+               }, {
+                  "date_added": "13320643991000000",
+                  "date_last_used": "0",
+                  "guid": "f910e836-4d68-400a-8679-eb203dc2e355",
+                  "id": "277",
+                  "name": "nvim config - Buscar con Google",
+                  "type": "url",
+                  "url": "https://www.google.com/search?client=firefox-b-d&q=nvim+config#fpstate=ive&vld=cid:6cd18c66,vid:J9yqSdvAKXY"
+               }, {
+                  "date_added": "13320650037000000",
+                  "date_last_used": "0",
+                  "guid": "803e0ce4-c3aa-4cfb-842c-040a7af5cbb9",
+                  "id": "278",
+                  "name": "Learn Lua | Codecademy",
+                  "type": "url",
+                  "url": "https://www.codecademy.com/courses/learn-lua/lessons/lua-data-types-and-operators/exercises/lua-categorizing-data-with-types"
+               }, {
+                  "date_added": "13323912566000000",
+                  "date_last_used": "0",
+                  "guid": "0da20cad-fd6d-49d5-96fd-0e41dded4856",
+                  "id": "279",
+                  "name": "OWASP Top Ten | OWASP Foundation",
+                  "type": "url",
+                  "url": "https://owasp.org/www-project-top-ten/"
+               }, {
+                  "date_added": "13324496690000000",
+                  "date_last_used": "0",
+                  "guid": "323a33bc-8867-47b4-acb4-ee3d7e5f15ba",
+                  "id": "280",
+                  "name": "File Inclusion/Path traversal - HackTricks",
+                  "type": "url",
+                  "url": "https://book.hacktricks.xyz/pentesting-web/file-inclusion"
+               }, {
+                  "date_added": "13324497197000000",
+                  "date_last_used": "0",
+                  "guid": "006c1f0a-4782-43db-a905-15696b68d381",
+                  "id": "281",
+                  "name": "File Inclusion/Path traversal - HackTricks - Boitatech",
+                  "type": "url",
+                  "url": "https://hacktricks.boitatech.com.br/pentesting-web/file-inclusion#wrapper-php-filter"
+               }, {
+                  "date_added": "13326468189000000",
+                  "date_last_used": "0",
+                  "guid": "82289e8a-e9c6-411c-8d77-871c06f768f7",
+                  "id": "282",
+                  "name": "Khan Academy | Práctica, lecciones y cursos en línea gratuitos",
+                  "type": "url",
+                  "url": "https://es.khanacademy.org/"
+               }, {
+                  "date_added": "13326468457000000",
+                  "date_last_used": "0",
+                  "guid": "f317459d-038c-42f3-a34e-e31d08c929cb",
+                  "id": "283",
+                  "name": "Free Courses | Harvard University",
+                  "type": "url",
+                  "url": "https://pll.harvard.edu/catalog/free?page=1"
+               }, {
+                  "date_added": "13323911821000000",
+                  "date_last_used": "0",
+                  "guid": "645c1d01-3fe1-47c1-a39f-ae9e60d534e3",
+                  "id": "284",
+                  "name": "28cb488e-2299-49e2-9c10-f5171b56643d",
+                  "type": "url",
+                  "url": "blob:https://app.hackthebox.com/28cb488e-2299-49e2-9c10-f5171b56643d"
+               }, {
+                  "date_added": "13326829288000000",
+                  "date_last_used": "0",
+                  "guid": "89b26275-7a6a-4730-9bfd-21699a945c84",
+                  "id": "285",
+                  "name": "[SOLVED] Netcat fails to connect to port on localhost / Networking, Server, and Protection / Arch Linux Forums",
+                  "type": "url",
+                  "url": "https://bbs.archlinux.org/viewtopic.php?id=171551"
+               }, {
+                  "date_added": "13327088886000000",
+                  "date_last_used": "0",
+                  "guid": "f3c0780f-c047-4252-a667-c9a643d380f9",
+                  "id": "286",
+                  "name": "IQUNIX",
+                  "type": "url",
+                  "url": "https://iqunix.store/apps/17track?nums=WNBAA0235376210YQ"
+               }, {
+                  "date_added": "13327462667000000",
+                  "date_last_used": "0",
+                  "guid": "391f75f5-865d-41e1-857f-3e7d839cc2c0",
+                  "id": "287",
+                  "name": "Diccionario Coreano-Español",
+                  "type": "url",
+                  "url": "https://korean.dict.naver.com/koesdict/#/main"
+               }, {
+                  "date_added": "13327604691000000",
+                  "date_last_used": "0",
+                  "guid": "07946471-ca64-4273-95d4-16736de11dfc",
+                  "id": "288",
+                  "name": "OG80-英文说明书 - OG80-User_Guide_2023._pdf.pdf",
+                  "type": "url",
+                  "url": "https://cdn.shopify.com/s/files/1/1183/1328/files/OG80-User_Guide_2023._pdf.pdf?v=1673603392"
+               }, {
+                  "date_added": "13327667829000000",
+                  "date_last_used": "0",
+                  "guid": "76cf86ba-4222-476c-98de-245241407661",
+                  "id": "289",
+                  "name": "williamboman/mason-lspconfig.nvim: Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.",
+                  "type": "url",
+                  "url": "https://github.com/williamboman/mason-lspconfig.nvim#available-lsp-servers"
+               }, {
+                  "date_added": "13327722664000000",
+                  "date_last_used": "0",
+                  "guid": "11b00653-d417-4446-bc2c-b097d9711d39",
+                  "id": "290",
+                  "name": "Detector de plagio -",
+                  "type": "url",
+                  "url": "https://my.plag.es/myfiles"
+               }, {
+                  "date_added": "13327723435000000",
+                  "date_last_used": "0",
+                  "guid": "c2815e81-bc73-475b-a56a-041bfa02828a",
+                  "id": "291",
+                  "name": "Ejemplos TFG.pdf - Copyleaks Report",
+                  "type": "url",
+                  "url": "https://app.copyleaks.com/dashboard/v1/account/scans/08jbd19n6kz5n99l/report?viewMode=one-to-many&contentMode=html&sourcePage=1&suspectPage=1"
+               }, {
+                  "date_added": "13328274025000000",
+                  "date_last_used": "0",
+                  "guid": "b58e1f35-e8dd-4d1f-8f6f-4956ead4e790",
+                  "id": "292",
+                  "name": "Vim Cheat Sheet",
+                  "type": "url",
+                  "url": "https://vim.rtorr.com/"
+               }, {
+                  "date_added": "13330413999000000",
+                  "date_last_used": "0",
+                  "guid": "5ab85870-ddf9-416e-8c88-124f097f16a4",
+                  "id": "293",
+                  "name": "MySQL :: MySQL 8.0 Reference Manual :: 13.7.7.21 SHOW GRANTS Statement",
+                  "type": "url",
+                  "url": "https://dev.mysql.com/doc/refman/8.0/en/show-grants.html"
+               }, {
+                  "date_added": "13330426681000000",
+                  "date_last_used": "0",
+                  "guid": "bae31f41-7b5c-480f-b56f-73b49689cff1",
+                  "id": "294",
+                  "name": "GTFOBins",
+                  "type": "url",
+                  "url": "https://gtfobins.github.io/"
+               }, {
+                  "date_added": "13330779666000000",
+                  "date_last_used": "0",
+                  "guid": "a9ec0c31-680b-4426-8f27-e8cba7f8e444",
+                  "id": "295",
+                  "name": "Inicio - Canva",
+                  "type": "url",
+                  "url": "https://www.canva.com/"
+               }, {
+                  "date_added": "13331064364000000",
+                  "date_last_used": "0",
+                  "guid": "5fcd77a9-b1af-40ee-b609-f8e1675c0340",
+                  "id": "296",
+                  "name": "Mi panel",
+                  "type": "url",
+                  "url": "https://www.topdoctors.es/registers/home"
+               }, {
+                  "date_added": "13331296381000000",
+                  "date_last_used": "0",
+                  "guid": "d9173f16-9b61-49ba-a27c-a38542d7fbde",
+                  "id": "297",
+                  "name": "JavaScript Obfuscator Tool",
+                  "type": "url",
+                  "url": "https://obfuscator.io/"
+               }, {
+                  "date_added": "13331296583000000",
+                  "date_last_used": "0",
+                  "guid": "9b4259dc-1afa-41f8-8133-5ac53ea89394",
+                  "id": "298",
+                  "name": "jjencode - Encode any JavaScript program using only symbols",
+                  "type": "url",
+                  "url": "https://utf-8.jp/public/jjencode.html"
+               }, {
+                  "date_added": "13332524659000000",
+                  "date_last_used": "0",
+                  "guid": "de12cb68-2572-41b1-8b30-1409478d2ea8",
+                  "id": "299",
+                  "name": "Penetration Testing Bootcamp > Penetration Testing Bootcamp - Introduction | Class Central Classroom",
+                  "type": "url",
+                  "url": "https://www.classcentral.com/classroom/youtube-penetration-testing-bootcamp-53185"
+               }, {
+                  "date_added": "13318510053000000",
+                  "date_last_used": "0",
+                  "guid": "3e84f2dc-2fd2-4bc5-8a78-77de2307d6bc",
+                  "id": "300",
+                  "name": "Examen Tema 5: ¿Será rentable mi futuro negocio?: Revisión del intento",
+                  "type": "url",
+                  "url": "https://campus.implika.es/mod/quiz/review.php?attempt=785958&cmid=34979"
+               }, {
+                  "date_added": "13338728109000000",
+                  "date_last_used": "0",
+                  "guid": "323afed3-a367-48ca-888b-ba84620bd345",
+                  "id": "301",
+                  "name": "Alacritty 0.9.0 keyboard shortcuts ‒ defkey",
+                  "type": "url",
+                  "url": "https://defkey.com/alacritty-0-9-shortcuts"
+               }, {
+                  "date_added": "13340208321000000",
+                  "date_last_used": "0",
+                  "guid": "bc1215ec-495a-4e3d-af79-3e68ddfdaa36",
+                  "id": "302",
+                  "name": "Everything Fades To Blue Radio",
+                  "type": "url",
+                  "url": "https://lofimusic.app/everything-fades-to-blue"
+               }, {
+                  "date_added": "13340208566000000",
+                  "date_last_used": "0",
+                  "guid": "9aa548bb-9854-407b-a886-fea60124bbcf",
+                  "id": "303",
+                  "name": "Lofi Player",
+                  "type": "url",
+                  "url": "https://alexrintt.io/lofi-player/"
+               }, {
+                  "date_added": "13340213465000000",
+                  "date_last_used": "0",
+                  "guid": "84945a28-f2f8-41b3-86fc-c42467b4bbae",
+                  "id": "304",
+                  "name": "Snapcraft - Snaps are universal Linux packages",
+                  "type": "url",
+                  "url": "https://snapcraft.io/"
+               }, {
+                  "date_added": "13340292077000000",
+                  "date_last_used": "0",
+                  "guid": "03ee1bcd-dd5d-470b-bce2-73e0f7790128",
+                  "id": "305",
+                  "name": "| Código Cristo |",
+                  "type": "url",
+                  "url": "https://codigocristo.github.io/driver_nvidia.html"
+               }, {
+                  "date_added": "13340754990000000",
+                  "date_last_used": "0",
+                  "guid": "eae92f7d-f9c4-4f4a-a244-6c3b5c67e372",
+                  "id": "306",
+                  "name": "git - ! [rejected] master -> master (fetch first) - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/28429819/rejected-master-master-fetch-first"
+               }, {
+                  "date_added": "13340832690000000",
+                  "date_last_used": "0",
+                  "guid": "db7c9c7a-5749-4c4f-ae5e-9931f264308f",
+                  "id": "307",
+                  "name": "Codewars - Achieve mastery through coding practice and developer mentorship",
+                  "type": "url",
+                  "url": "https://www.codewars.com/"
+               }, {
+                  "date_added": "13340904044000000",
+                  "date_last_used": "0",
+                  "guid": "0c69c879-acf1-4e50-a800-a7b2d3334f9b",
+                  "id": "308",
+                  "name": "Python sobre el ejercicio",
+                  "type": "url",
+                  "url": "https://exercism.org/tracks/python/exercises/black-jack/edit"
+               }, {
+                  "date_added": "13341070090000000",
+                  "date_last_used": "0",
+                  "guid": "2ce23466-1c13-44dd-ae4b-6fa87fcfbc3f",
+                  "id": "309",
+                  "name": "Training Python Fundamentals",
+                  "type": "url",
+                  "url": "https://classroom.google.com/u/1/c/NjE2MDY4MjQ3NTQz"
+               }, {
+                  "date_added": "13341338460000000",
+                  "date_last_used": "0",
+                  "guid": "9b6edcd3-92e5-4226-b75e-f80a2ed423b9",
+                  "id": "310",
+                  "name": "World.Party2k23",
+                  "type": "url",
+                  "url": "https://worldparty.hackmadrid.org/#speakers"
+               }, {
+                  "date_added": "13341434214000000",
+                  "date_last_used": "0",
+                  "guid": "140bead3-66ae-4901-aff6-f7e8d1363467",
+                  "id": "311",
+                  "name": "(7) How to make Neovim splits transparent? : neovim",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/neovim/comments/xwzd0z/how_to_make_neovim_splits_transparent/"
+               }, {
+                  "date_added": "13341960471000000",
+                  "date_last_used": "0",
+                  "guid": "cb4c94fd-a008-44c0-8603-d5085736d8a2",
+                  "id": "312",
+                  "name": "sPot: Spotify in a 4th-gen iPod (2004) | Hackaday.io",
+                  "type": "url",
+                  "url": "https://hackaday.io/project/177034-spot-spotify-in-a-4th-gen-ipod-2004"
+               }, {
+                  "date_added": "13342024592000000",
+                  "date_last_used": "0",
+                  "guid": "75b4d8ed-273f-4f4c-a17e-bb11781882b4",
+                  "id": "313",
+                  "name": "OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation",
+                  "type": "url",
+                  "url": "https://owasp.org/"
+               }, {
+                  "date_added": "13341428200000000",
+                  "date_last_used": "0",
+                  "guid": "ada9ed7c-5212-435d-b519-052e6d0f086e",
+                  "id": "314",
+                  "name": "Introducción al Certificado en Ciberseguridad de Google | Coursera",
+                  "type": "url",
+                  "url": "https://www.coursera.org/learn/fundamentos-de-la-ciberseguridad/lecture/DhI78/introduccion-al-certificado-en-ciberseguridad-de-google"
+               }, {
+                  "date_added": "13342119437000000",
+                  "date_last_used": "0",
+                  "guid": "55ebee24-191c-401a-962e-72e65bb65230",
+                  "id": "315",
+                  "name": "Journey to the NIST Cybersecurity Framework (CSF) 2.0 | Workshop #3 | NIST",
+                  "type": "url",
+                  "url": "https://www.nist.gov/news-events/events/2023/09/journey-nist-cybersecurity-framework-csf-20-workshop-3"
+               }, {
+                  "date_added": "13342636550000000",
+                  "date_last_used": "0",
+                  "guid": "f10d0ddc-aa0a-4030-9775-72007a996368",
+                  "id": "316",
+                  "name": "Print - abcefc6d56db009603d897f8b669cd4273f7.pdf",
+                  "type": "url",
+                  "url": "https://gzhls.at/blob/ldb/e/7/b/3/abcefc6d56db009603d897f8b669cd4273f7.pdf"
+               }, {
+                  "date_added": "13354824050000000",
+                  "date_last_used": "0",
+                  "guid": "04db7625-1325-4c22-8f1a-b04ce61fb2b9",
+                  "id": "317",
+                  "name": "2311VCSO - Máster Online en Ciberseguridad",
+                  "type": "url",
+                  "url": "https://app.zoom.us/wc/85318590751/join?fromPWA=1&_x_zm_rtaid=TXJss3QuSDCovmTFO7EMjw.1710349152074.5c98fceee6acf462c4bd969f23cd67a9&_x_zm_rhtaid=108"
+               }, {
+                  "date_added": "13343355489000000",
+                  "date_last_used": "0",
+                  "guid": "e786e262-43c3-441a-abcf-6be2c411aaad",
+                  "id": "318",
+                  "name": "Bash scripting cheatsheet",
+                  "type": "url",
+                  "url": "https://devhints.io/bash"
+               }, {
+                  "date_added": "13343356921000000",
+                  "date_last_used": "0",
+                  "guid": "554f6d36-26d2-4026-9e2c-d4463b97d8e0",
+                  "id": "319",
+                  "name": "Command substitution [Bash Hackers Wiki]",
+                  "type": "url",
+                  "url": "https://web.archive.org/web/20230326081741/https://wiki.bash-hackers.org/syntax/expansion/cmdsubst"
+               }, {
+                  "date_added": "13343361854000000",
+                  "date_last_used": "0",
+                  "guid": "b92a859f-3e95-4133-a9d7-8c6dd0c93400",
+                  "id": "320",
+                  "name": "Bash scripting cheatsheet",
+                  "type": "url",
+                  "url": "https://devhints.io/bash#functions"
+               }, {
+                  "date_added": "13343454470000000",
+                  "date_last_used": "0",
+                  "guid": "479d8717-834d-4c94-9325-77f1bb02e085",
+                  "id": "321",
+                  "name": "Watch Silicon Valley 2014 full HD Free",
+                  "type": "url",
+                  "url": "https://1hd.to/watch-series/watch-silicon-valley-online-39013/95661"
+               }, {
+                  "date_added": "13343723751000000",
+                  "date_last_used": "0",
+                  "guid": "c5adddf9-2060-40e8-b052-4ee4dd050678",
+                  "id": "322",
+                  "name": "Learning Catalog: Free online courses in Cybersecurity, etc.",
+                  "type": "url",
+                  "url": "https://skillsforall.com/catalog?category=course"
+               }, {
+                  "date_added": "13345323192000000",
+                  "date_last_used": "0",
+                  "guid": "c0cda768-75b8-4e83-a7ea-4bbd3a9c1e42",
+                  "id": "323",
+                  "name": "Monitor para diseñadores de 27 pulgadas con QHD, 100% sRGB, HDR y USB-C PD2705Q | BenQ España",
+                  "type": "url",
+                  "url": "https://www.benq.eu/es-es/monitor/designer/pd2705q/specifications.html"
+               }, {
+                  "date_added": "13345750933000000",
+                  "date_last_used": "0",
+                  "guid": "04b7d6a1-1318-4641-b5d7-07d0afc29cf9",
+                  "id": "324",
+                  "name": "Describir los conceptos de gobernanza, riesgo y cumplimiento (GRC) - Training | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/es-es/training/modules/describe-security-concepts-methodologies/6-describe-compliance-concepts"
+               }, {
+                  "date_added": "13346788833000000",
+                  "date_last_used": "0",
+                  "guid": "4c67958d-9890-40b7-b7d8-600d854a15c5",
+                  "id": "325",
+                  "name": "Trabajo de clase de Máster en Ciberseguridad 2311VCSO",
+                  "type": "url",
+                  "url": "https://classroom.google.com/u/1/w/NjE2ODk4NTYzNzMy/t/all"
+               }, {
+                  "date_added": "13346985322000000",
+                  "date_last_used": "0",
+                  "guid": "61c124cd-4cfb-4eac-8d42-73e5e771592f",
+                  "id": "326",
+                  "name": "CIDR to IPv4 Address Range Utility Tool | IPAddressGuide",
+                  "type": "url",
+                  "url": "https://www.ipaddressguide.com/cidr"
+               }, {
+                  "date_added": "13346993254000000",
+                  "date_last_used": "0",
+                  "guid": "b5400f48-94ba-4fc8-a4da-5a2abf445d69",
+                  "id": "327",
+                  "name": "IP Calculator / IP Subnetting",
+                  "type": "url",
+                  "url": "https://blog.jodies.de/ipcalc"
+               }, {
+                  "date_added": "13347485538000000",
+                  "date_last_used": "0",
+                  "guid": "0ab6178f-eea2-48b8-bfb9-39b9bd821df9",
+                  "id": "328",
+                  "name": "Atajos de teclado y comandos para usar VIM eficientemente",
+                  "type": "url",
+                  "url": "https://geekland.eu/atajos-de-teclado-y-comandos-para-usar-vim-eficientemente/"
+               }, {
+                  "date_added": "13350154961000000",
+                  "date_last_used": "0",
+                  "guid": "d2ff23b7-5c60-4914-934a-b9d9910363ef",
+                  "id": "329",
+                  "name": "Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers",
+                  "type": "url",
+                  "url": "https://www.exploit-db.com/"
+               }, {
+                  "date_added": "13350536886000000",
+                  "date_last_used": "0",
+                  "guid": "0e3b02f3-ea96-465d-bdaf-04d2d313bc8e",
+                  "id": "330",
+                  "name": "Torrentz2 Search Engine | The Best Torrent Search Engine",
+                  "type": "url",
+                  "url": "https://torrentz2.nz/"
+               }, {
+                  "date_added": "13351287029000000",
+                  "date_last_used": "0",
+                  "guid": "8c26777a-9c66-47ca-af3c-2bc2829e6533",
+                  "id": "331",
+                  "name": "Navigating the Security Landscape | Optiv",
+                  "type": "url",
+                  "url": "https://www.optiv.com/navigating-security-landscape-guide-technologies-and-providers"
+               }, {
+                  "date_added": "13351287169000000",
+                  "date_last_used": "0",
+                  "guid": "919ce7b5-b5fd-48ae-b239-bfaebab8d72b",
+                  "id": "332",
+                  "name": "2024 USA | RSA Conference",
+                  "type": "url",
+                  "url": "https://www.rsaconference.com/usa"
+               }, {
+                  "date_added": "13351380450000000",
+                  "date_last_used": "0",
+                  "guid": "011a3576-19ea-46e1-bc52-afc9d1ed8cbb",
+                  "id": "333",
+                  "name": "Set de dos herramientas para relojes BR 01 - BR 03 BR 01 - BR 03",
+                  "type": "url",
+                  "url": "https://www.bellross.com/eu/es/set-of-two-tools-for-br-01-br-03"
+               }, {
+                  "date_added": "13352077262000000",
+                  "date_last_used": "0",
+                  "guid": "77bf4f1a-e399-4a3e-b1cd-043c0e6ee101",
+                  "id": "334",
+                  "name": "Temp Mail - Disposable Temporary Email",
+                  "type": "url",
+                  "url": "https://temp-mail.org/"
+               }, {
+                  "date_added": "13352927723000000",
+                  "date_last_used": "0",
+                  "guid": "318cf11a-e5d3-4b5d-9554-13825b9ed6a7",
+                  "id": "335",
+                  "name": "How to stabilize simple reverse shell to a fully interactive terminal",
+                  "type": "url",
+                  "url": "https://maxat-akbanov.com/how-to-stabilize-a-simple-reverse-shell-to-a-fully-interactive-terminal?source=post_page-----3db77d07bc06--------------------------------"
+               }, {
+                  "date_added": "13353010506000000",
+                  "date_last_used": "0",
+                  "guid": "b9acee4b-e90d-4634-8d39-541f98899fd6",
+                  "id": "336",
+                  "name": "Security Certification Roadmap - Paul Jerimy Media",
+                  "type": "url",
+                  "url": "https://pauljerimy.com/security-certification-roadmap/"
+               }, {
+                  "date_added": "13353361835000000",
+                  "date_last_used": "0",
+                  "guid": "438ab97f-18c0-43bd-ba30-fbe576f366c5",
+                  "id": "337",
+                  "name": "Qwiic Pro Micro USB-C (ATmega32U4) Hookup Guide - SparkFun Learn",
+                  "type": "url",
+                  "url": "https://learn.sparkfun.com/tutorials/qwiic-pro-micro-usb-c-atmega32u4-hookup-guide/setting-up-arduino"
+               }, {
+                  "date_added": "13353362067000000",
+                  "date_last_used": "0",
+                  "guid": "ccb2bf96-c871-4aa2-abf7-0a3749fa63aa",
+                  "id": "338",
+                  "name": "Flashing Firmware",
+                  "type": "url",
+                  "url": "https://docs.qmk.fm/#/newbs_flashing"
+               }, {
+                  "date_added": "13353442566000000",
+                  "date_last_used": "0",
+                  "guid": "3a5568ec-e7c4-4e3e-b3f4-0958281d43d6",
+                  "id": "339",
+                  "name": "Adafruit_Arduino_Boards/bootloaders/caterina/Caterina-Atmega32u4.hex at master · adafruit/Adafruit_Arduino_Boards",
+                  "type": "url",
+                  "url": "https://github.com/adafruit/Adafruit_Arduino_Boards/blob/master/bootloaders/caterina/Caterina-Atmega32u4.hex"
+               }, {
+                  "date_added": "13353693860000000",
+                  "date_last_used": "0",
+                  "guid": "ba2b1d4c-e36d-4705-813b-d16a2fbf89ae",
+                  "id": "340",
+                  "name": "c++ faq - The Definitive C++ Book Guide and List - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list"
+               }, {
+                  "date_added": "13353878067000000",
+                  "date_last_used": "0",
+                  "guid": "4e73dfcb-b2a6-4b84-b950-346c64b216de",
+                  "id": "341",
+                  "name": "Subtitles - download movie and TV Series subtitles",
+                  "type": "url",
+                  "url": "https://www.opensubtitles.org/en/search/subs"
+               }, {
+                  "date_added": "13354060511000000",
+                  "date_last_used": "0",
+                  "guid": "01effe9b-f053-4b36-bdc6-cca33e7f814a",
+                  "id": "342",
+                  "name": "May not launch openvpn service only on ArchLinux · Issue #1155 · angristan/openvpn-install",
+                  "type": "url",
+                  "url": "https://github.com/angristan/openvpn-install/issues/1155"
+               }, {
+                  "date_added": "13354937724000000",
+                  "date_last_used": "0",
+                  "guid": "374e86fe-82cc-4519-bee8-a67b0ea879c1",
+                  "id": "343",
+                  "name": "B550M Steel Legend.pdf",
+                  "type": "url",
+                  "url": "https://download.asrock.com/Manual/B550M%20Steel%20Legend.pdf"
+               }, {
+                  "date_added": "13354999998000000",
+                  "date_last_used": "0",
+                  "guid": "fec65ef6-222d-48dd-9acc-eb2267be7cd2",
+                  "id": "344",
+                  "name": "Internet Archive: Wayback Machine",
+                  "type": "url",
+                  "url": "https://archive.org/web/"
+               }, {
+                  "date_added": "13355000386000000",
+                  "date_last_used": "0",
+                  "guid": "876773c6-6fc0-4d25-a9df-291c6ebfc09d",
+                  "id": "345",
+                  "name": "phpMyAdmin",
+                  "type": "url",
+                  "url": "https://www.phpmyadmin.net/"
+               }, {
+                  "date_added": "13355001714000000",
+                  "date_last_used": "0",
+                  "guid": "aae9e5ed-42d4-4411-b6e1-9cfaee488123",
+                  "id": "346",
+                  "name": "WiGLE: Wireless Network Mapping",
+                  "type": "url",
+                  "url": "https://www.wigle.net/"
+               }, {
+                  "date_added": "13355244704000000",
+                  "date_last_used": "0",
+                  "guid": "14064916-612e-452d-99b5-8f79062a1924",
+                  "id": "347",
+                  "name": "131492.pdf",
+                  "type": "url",
+                  "url": "https://manglar.uninorte.edu.co/bitstream/handle/10584/8065/131492.pdf?sequence=1&isAllowed=y"
+               }, {
+                  "date_added": "13355333080000000",
+                  "date_last_used": "0",
+                  "guid": "47550a90-d356-4a3e-992f-42c0d5770724",
+                  "id": "348",
+                  "name": "STIC 140 A6 RFS-PAM.pdf",
+                  "type": "url",
+                  "url": "https://www.ccn-cert.cni.es/es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3884-guia-140-anexo-a-6-gestion-de-acceso-privilegiado-pam/file?format=html"
+               }, {
+                  "date_added": "13355333143000000",
+                  "date_last_used": "0",
+                  "guid": "db4d6dfd-5432-43d9-ab4c-c30a5a2e5de2",
+                  "id": "349",
+                  "name": "Buyer-s-Guide-for-Complete-Privileged-Access-Management-PAM-SPA_small.pdf",
+                  "type": "url",
+                  "url": "https://assets.beyondtrust.com/assets/documents/Buyer-s-Guide-for-Complete-Privileged-Access-Management-PAM-SPA_small.pdf"
+               }, {
+                  "date_added": "13355577282000000",
+                  "date_last_used": "0",
+                  "guid": "24431a8e-3f65-4de9-9958-ad474b727688",
+                  "id": "350",
+                  "name": "NIST 800-53, gestión de acceso privilegiado y privilegios mínimos",
+                  "type": "url",
+                  "url": "https://delinea.com/blog/nist-800-53-security-privacy-privileged-access"
+               }, {
+                  "date_added": "13355577354000000",
+                  "date_last_used": "0",
+                  "guid": "3a9eabe5-8113-47c0-b565-302f3f014652",
+                  "id": "351",
+                  "name": "Capítulo 10. Uso de módulos de autenticación conectables (PAM) Red Hat Enterprise Linux 7 | Portal del cliente de Red Hat",
+                  "type": "url",
+                  "url": "https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/7/html/system-level_authentication_guide/pluggable_authentication_modules"
+               }, {
+                  "date_added": "13356809443000000",
+                  "date_last_used": "0",
+                  "guid": "20a0c94a-2e36-4c92-b5fd-97fc6bfa97be",
+                  "id": "352",
+                  "name": "WiFi Pineapple - Hak5",
+                  "type": "url",
+                  "url": "https://shop.hak5.org/products/wifi-pineapple"
+               }, {
+                  "date_added": "13357264094000000",
+                  "date_last_used": "0",
+                  "guid": "65969205-b302-4e2b-b0a3-c08f6a316d23",
+                  "id": "353",
+                  "name": "Practical Bug Bounty | TCM Security, Inc.",
+                  "type": "url",
+                  "url": "https://academy.tcm-sec.com/p/practical-bug-bounty?affcode=770707_yveqjrr8"
+               }, {
+                  "date_added": "13357325945000000",
+                  "date_last_used": "0",
+                  "guid": "d3007101-b593-44fc-ae68-afec9d58aa74",
+                  "id": "354",
+                  "name": "MS12–020 — Exploit. CVE-2012–0002, CVE-2012–0152 | by Rajesh | Medium",
+                  "type": "url",
+                  "url": "https://rootedshell.medium.com/ms12-020-8625e74fb433"
+               }, {
+                  "date_added": "13357445427000000",
+                  "date_last_used": "0",
+                  "guid": "4a31a791-23b4-4902-bb70-39f0b1816053",
+                  "id": "355",
+                  "name": "GAR/configs/picom/picom.conf at master · GatoImorrivel/GAR",
+                  "type": "url",
+                  "url": "https://github.com/GatoImorrivel/GAR/blob/master/configs/picom/picom.conf"
+               }, {
+                  "date_added": "13357817033000000",
+                  "date_last_used": "0",
+                  "guid": "c819fea8-a70f-4a5e-a4bf-12c8f47ca623",
+                  "id": "356",
+                  "name": "Search Swiss Re Careers | Swiss Re",
+                  "type": "url",
+                  "url": "https://www.swissre.com/careers/jobSearch.html?searchterm=&country=ES&city=Madrid#slide-4"
+               }, {
+                  "date_added": "13357838918000000",
+                  "date_last_used": "0",
+                  "guid": "5cfb69aa-5a0c-4430-bf6e-d6b277cd9f50",
+                  "id": "357",
+                  "name": "Launchpad - Immersive Labs",
+                  "type": "url",
+                  "url": "https://madrid4tech.immersivelabs.online/"
+               }, {
+                  "date_added": "13357867651000000",
+                  "date_last_used": "0",
+                  "guid": "66e0ef10-8304-40b2-b9c9-f8ec3535b40b",
+                  "id": "358",
+                  "name": "http://pwnable.kr/index.php",
+                  "type": "url",
+                  "url": "http://pwnable.kr/index.php"
+               }, {
+                  "date_added": "13357934403000000",
+                  "date_last_used": "0",
+                  "guid": "544b74f7-282a-4ed2-8c04-faa0841d7fef",
+                  "id": "359",
+                  "name": "http://pwnable.kr/",
+                  "type": "url",
+                  "url": "http://pwnable.kr/"
+               }, {
+                  "date_added": "13358561039000000",
+                  "date_last_used": "0",
+                  "guid": "d13ceffa-0dfd-4c03-a8e1-79316eb8c9f6",
+                  "id": "360",
+                  "name": "Command Challenge!",
+                  "type": "url",
+                  "url": "https://cmdchallenge.com/#/list_files"
+               }, {
+                  "date_added": "13358623161000000",
+                  "date_last_used": "0",
+                  "guid": "4f2b35b6-1796-42f3-8b3a-1d429955f1cc",
+                  "id": "361",
+                  "name": "Text to ASCII Art Generator (TAAG)",
+                  "type": "url",
+                  "url": "https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20"
+               }, {
+                  "date_added": "13358884592000000",
+                  "date_last_used": "0",
+                  "guid": "f99a66b0-5010-4fd9-85c5-8b8a40dbf5fc",
+                  "id": "362",
+                  "name": "de4js | JavaScript Deobfuscator and Unpacker",
+                  "type": "url",
+                  "url": "https://lelinhtinh.github.io/de4js/"
+               }, {
+                  "date_added": "13358891166000000",
+                  "date_last_used": "0",
+                  "guid": "67a54a56-e5e8-4547-a703-04248ebf5bac",
+                  "id": "363",
+                  "name": "rot13.com",
+                  "type": "url",
+                  "url": "https://rot13.com/"
+               }, {
+                  "date_added": "13360867554000000",
+                  "date_last_used": "0",
+                  "guid": "e454e8fe-dd36-4e89-8199-2f387fdad07f",
+                  "id": "364",
+                  "name": "GLIDER.es – Forensic, Hacking & Cibersecurity",
+                  "type": "url",
+                  "url": "https://glider.es/"
+               }, {
+                  "date_added": "13362252205000000",
+                  "date_last_used": "0",
+                  "guid": "69f63bdd-5a54-4058-97ce-dde5dd91ee9e",
+                  "id": "365",
+                  "name": "PayloadsAllTheThings/Server Side Template Injection at master · swisskyrepo/PayloadsAllTheThings",
+                  "type": "url",
+                  "url": "https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#exploit-the-ssti-by-calling-subprocesspopen"
+               }, {
+                  "date_added": "13362253176000000",
+                  "date_last_used": "0",
+                  "guid": "25f4212a-f16a-4ba7-9463-6918f7899678",
+                  "id": "366",
+                  "name": "Full TTYs | HackTricks | HackTricks",
+                  "type": "url",
+                  "url": "https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/full-ttys"
+               }, {
+                  "date_added": "13362858422000000",
+                  "date_last_used": "0",
+                  "guid": "356266ae-29ae-4c1d-b458-8fde598ba469",
+                  "id": "367",
+                  "name": "Epoch Converter - Unix Timestamp Converter",
+                  "type": "url",
+                  "url": "https://www.epochconverter.com/"
+               }, {
+                  "date_added": "13363720196000000",
+                  "date_last_used": "0",
+                  "guid": "577abfc0-2bf3-47d6-b683-5e8c02953918",
+                  "id": "368",
+                  "name": "Free online network tools - traceroute, nslookup, dig, whois lookup, ping - IPv6",
+                  "type": "url",
+                  "url": "https://centralops.net/co/"
+               }, {
+                  "date_added": "13363894708000000",
+                  "date_last_used": "0",
+                  "guid": "2ba289f1-d50c-408f-a9c4-d91b1ea3dab5",
+                  "id": "369",
+                  "name": "AUR (en) - armitage-git",
+                  "type": "url",
+                  "url": "https://aur.archlinux.org/packages/armitage-git"
+               }, {
+                  "date_added": "13364327285000000",
+                  "date_last_used": "0",
+                  "guid": "d7ba6efd-9ab5-428a-bfe9-9d29563f95e7",
+                  "id": "370",
+                  "name": "hackerhq | cyber security jobs | USA Today | HTB writeup",
+                  "type": "url",
+                  "url": "http://www.hackerhq.tech/"
+               }, {
+                  "date_added": "13365017255000000",
+                  "date_last_used": "0",
+                  "guid": "0af41888-448c-44c0-b208-8743c54d4021",
+                  "id": "371",
+                  "name": "TCM Security, Inc.",
+                  "type": "url",
+                  "url": "https://academy.tcm-sec.com/"
+               }, {
+                  "date_added": "13365637664000000",
+                  "date_last_used": "0",
+                  "guid": "5ad48b63-bb2a-4b08-863b-598ada47b53e",
+                  "id": "372",
+                  "name": "Ticketmaster - Mi Cuenta",
+                  "type": "url",
+                  "url": "https://www.ticketmaster.es/user/order/12xXMevqbeM_vmrx-7vqJsU-WqKFJd-tGy55/40929/view"
+               }, {
+                  "date_added": "13370367465000000",
+                  "date_last_used": "0",
+                  "guid": "838f80a2-01a7-4cee-b17a-09c3e7712b1d",
+                  "id": "373",
+                  "name": "221_Teorica_Comun_B.pdf",
+                  "type": "url",
+                  "url": "https://autoescolamatadepera.cat/z/upload/file/221_Teorica_Comun_B.pdf"
+               }, {
+                  "date_added": "13370367900000000",
+                  "date_last_used": "0",
+                  "guid": "ffca0d67-90b2-4ee1-8f25-c7fb8b0e4af3",
+                  "id": "374",
+                  "name": "Surf Forecast and Surf Reports Worldwide | Surf-forecast.com",
+                  "type": "url",
+                  "url": "https://www.surf-forecast.com/"
+               }, {
+                  "date_added": "13370367904000000",
+                  "date_last_used": "0",
+                  "guid": "99129710-525d-46bd-a2f1-a97ec6fc0822",
+                  "id": "375",
+                  "name": "Camaramar",
+                  "type": "url",
+                  "url": "https://www.camaramar.com/"
+               }, {
+                  "date_added": "13371207221000000",
+                  "date_last_used": "0",
+                  "guid": "0e707d86-3885-4640-92cc-9cbfe309ab8f",
+                  "id": "376",
+                  "name": "Ex Escuela de Surf,Paddle Surf y Bodyboard en A Coruña, Namarea.",
+                  "type": "url",
+                  "url": "https://namarea.com/"
+               }, {
+                  "date_added": "13373546938000000",
+                  "date_last_used": "0",
+                  "guid": "9102eeb6-b0fb-449f-ae4f-de7a79d60d01",
+                  "id": "377",
+                  "name": "Vite | Herramienta frontend de próxima generación",
+                  "type": "url",
+                  "url": "https://es.vitejs.dev/"
+               }, {
+                  "date_added": "13373670208000000",
+                  "date_last_used": "0",
+                  "guid": "91248710-3fa6-46ac-b347-e77ccdf172c0",
+                  "id": "378",
+                  "name": "Trans Picos Europa",
+                  "type": "url",
+                  "url": "https://trans-picoseuropa.com/"
+               }, {
+                  "date_added": "13374540490000000",
+                  "date_last_used": "0",
+                  "guid": "7bc9d7a4-5ee0-42f4-b70b-f1e23c981a22",
+                  "id": "379",
+                  "name": "Free Download Books",
+                  "type": "url",
+                  "url": "https://oceanofpdf.com/"
+               }, {
+                  "date_added": "13374761500000000",
+                  "date_last_used": "0",
+                  "guid": "39055719-28e4-4d37-a918-45ce0fbeef22",
+                  "id": "380",
+                  "name": "musicForProgramming();",
+                  "type": "url",
+                  "url": "https://musicforprogramming.net/latest/"
+               }, {
+                  "date_added": "13375275740000000",
+                  "date_last_used": "0",
+                  "guid": "4f9977b0-7942-4883-bcba-8532b783c962",
+                  "id": "381",
+                  "name": "Cisco Networking Academy",
+                  "type": "url",
+                  "url": "https://www.netacad.com/catalogs/learn"
+               }, {
+                  "date_added": "13375277830000000",
+                  "date_last_used": "0",
+                  "guid": "a5fd590c-7e2b-4449-9ead-118d432cb8ce",
+                  "id": "382",
+                  "name": "Welcome to English for IT Intermediate Part 1",
+                  "type": "url",
+                  "url": "https://edube.org/learn/eit1/welcome-to-english-for-it-1#course-introduction"
+               }, {
+                  "date_added": "13375360358000000",
+                  "date_last_used": "0",
+                  "guid": "e16d4fc5-78ba-4250-83ab-24c619954fc4",
+                  "id": "383",
+                  "name": "Subnet-Guide.xlsx - Hojas de cálculo de Google",
+                  "type": "url",
+                  "url": "https://docs.google.com/spreadsheets/d/1ETKH31-E7G-7ntEOlWGZcDZWuukmeHFe/edit?gid=1394237865#gid=1394237865"
+               }, {
+                  "date_added": "13375450494000000",
+                  "date_last_used": "0",
+                  "guid": "e60f7aab-d2c1-437e-8215-4d474fa0aa67",
+                  "id": "384",
+                  "name": "Grammar: The Emphatic \"do\"",
+                  "type": "url",
+                  "url": "https://edube.org/learn/eit1/grammar-the-emphatic-quot-doquot#video-summary"
+               }, {
+                  "date_added": "13375793825000000",
+                  "date_last_used": "0",
+                  "guid": "307391ce-5466-4ed4-92c7-74687248dd33",
+                  "id": "385",
+                  "name": "curso-ccst-cisco (Channel) - New Workspace - Slack",
+                  "type": "url",
+                  "url": "https://app.slack.com/client/T080ADTT0F4/C07T0UUQVN0?skip_onboarding=1"
+               }, {
+                  "date_added": "13375797238000000",
+                  "date_last_used": "0",
+                  "guid": "53155e21-9345-4d97-8c95-5851e98b6c2f",
+                  "id": "386",
+                  "name": "Email Dossier - Investigate email addresses",
+                  "type": "url",
+                  "url": "https://centralops.net/co/emaildossier.aspx"
+               }, {
+                  "date_added": "13375797694000000",
+                  "date_last_used": "0",
+                  "guid": "b1853bd2-8231-4ce5-9771-a0c2b021eba5",
+                  "id": "387",
+                  "name": "OSINT Training Center - Aware Online",
+                  "type": "url",
+                  "url": "https://www.aware-online.com/en/"
+               }, {
+                  "date_added": "13375877675000000",
+                  "date_last_used": "0",
+                  "guid": "0f21ac70-feca-4af2-92fd-364668421ee5",
+                  "id": "388",
+                  "name": "Área personal | Campus FAD",
+                  "type": "url",
+                  "url": "https://www.campusfad.org/formacion/cursos/my/"
+               }, {
+                  "date_added": "13376744981000000",
+                  "date_last_used": "0",
+                  "guid": "81311fec-8653-4095-9a4a-06ba7b396d21",
+                  "id": "389",
+                  "name": "OSINT Framework",
+                  "type": "url",
+                  "url": "https://osintframework.com/"
+               }, {
+                  "date_added": "13376745641000000",
+                  "date_last_used": "0",
+                  "guid": "9ecc213c-9230-4e6f-a907-180f66862e86",
+                  "id": "390",
+                  "name": "Medium",
+                  "type": "url",
+                  "url": "https://medium.com/"
+               }, {
+                  "date_added": "13376954985000000",
+                  "date_last_used": "0",
+                  "guid": "8943ac6e-85a0-4bff-984c-eef50ea7be02",
+                  "id": "391",
+                  "name": "Yandex — a fast Internet search",
+                  "type": "url",
+                  "url": "https://yandex.com/"
+               }, {
+                  "date_added": "13376955041000000",
+                  "date_last_used": "0",
+                  "guid": "90dc19b7-c519-43a4-86d3-b4a113f433f8",
+                  "id": "392",
+                  "name": "U GG: The Best League of Legends Builds LoL Build Champion Probuilds LoL Runes Tier List Counters Guides",
+                  "type": "url",
+                  "url": "https://u.gg/"
+               }, {
+                  "date_added": "13376959636000000",
+                  "date_last_used": "0",
+                  "guid": "ef77c251-e936-4845-b528-c6731f410cf4",
+                  "id": "393",
+                  "name": "[VESSEL OF HATRED] Dual Core Rapid Fire Flurry - Rogue Leveling Build for Diablo 4 - Icy Veins",
+                  "type": "url",
+                  "url": "https://www.icy-veins.com/d4/guides/dual-core-rapid-fire-flurry-rogue-leveling-build/"
+               }, {
+                  "date_added": "13377025145000000",
+                  "date_last_used": "0",
+                  "guid": "41fe197b-482b-4544-a60e-9dc577639b8f",
+                  "id": "394",
+                  "name": "We Leak Info - Leaked Dehashed Databases",
+                  "type": "url",
+                  "url": "https://weleakinfo.io/"
+               }, {
+                  "date_added": "13377025722000000",
+                  "date_last_used": "0",
+                  "guid": "6f591dcd-0743-4b88-8bff-eb12d03709a2",
+                  "id": "395",
+                  "name": "#1 Crowdsourced Cybersecurity Platform | Bugcrowd",
+                  "type": "url",
+                  "url": "https://www.bugcrowd.com/"
+               }, {
+                  "date_added": "13377600685000000",
+                  "date_last_used": "0",
+                  "guid": "776298e0-bb14-44f7-b0d0-73d627ff71d9",
+                  "id": "396",
+                  "name": "Especialistas en ciberseguridad y ciberinteligencia | Tarlogic",
+                  "type": "url",
+                  "url": "https://www.tarlogic.com/es/"
+               }, {
+                  "date_added": "13377654393000000",
+                  "date_last_used": "0",
+                  "guid": "586fe036-da8c-4242-98c6-1c4cdbdb185c",
+                  "id": "397",
+                  "name": "BOOX Shop – The Official BOOX Store",
+                  "type": "url",
+                  "url": "https://shop.boox.com/"
+               }, {
+                  "date_added": "13378485317000000",
+                  "date_last_used": "0",
+                  "guid": "969e548e-f02c-44a1-8d73-b8c2521faccd",
+                  "id": "398",
+                  "name": "CyberChef",
+                  "type": "url",
+                  "url": "https://gchq.github.io/CyberChef/"
+               }, {
+                  "date_added": "13379015090000000",
+                  "date_last_used": "0",
+                  "guid": "671a3390-1948-491f-86b0-fd5bccb777cb",
+                  "id": "399",
+                  "name": "Relume — Websites designed & built faster with AI | AI website builder",
+                  "type": "url",
+                  "url": "https://www.relume.io/"
+               }, {
+                  "date_added": "13380625016000000",
+                  "date_last_used": "0",
+                  "guid": "5a9a9982-3ea2-42f3-af23-8cf7ec40683a",
+                  "id": "400",
+                  "name": "Modern C - modernC.pdf",
+                  "type": "url",
+                  "url": "https://inria.hal.science/hal-02383654v2/file/modernC.pdf"
+               }, {
+                  "date_added": "13380625191000000",
+                  "date_last_used": "0",
+                  "guid": "afb1ddff-b371-4de7-bca7-d5bd5abca63a",
+                  "id": "401",
+                  "name": "Expert C Programming - Expert_C_Programming.pdf",
+                  "type": "url",
+                  "url": "https://progforperf.github.io/Expert_C_Programming.pdf"
+               }, {
+                  "date_added": "13382054502000000",
+                  "date_last_used": "0",
+                  "guid": "4728b15a-d871-45eb-af89-32bb5e017eae",
+                  "id": "402",
+                  "name": "Shielder - A Journey From \u003Ccode>sudo iptables\u003C/code> To Local Privilege Escalation",
+                  "type": "url",
+                  "url": "https://www.shielder.com/blog/2024/09/a-journey-from-sudo-iptables-to-local-privilege-escalation/"
+               }, {
+                  "date_added": "13382191879000000",
+                  "date_last_used": "0",
+                  "guid": "cef93310-f38b-4632-9f7c-45555307869b",
+                  "id": "403",
+                  "name": "Blog - Exploiting Empire C2 Framework",
+                  "type": "url",
+                  "url": "https://aceresponder.com/blog/exploiting-empire-c2-framework"
+               }, {
+                  "date_added": "13382469134000000",
+                  "date_last_used": "0",
+                  "guid": "e650d9e6-6d0a-452c-bd44-59e650cb229e",
+                  "id": "404",
+                  "name": "RedTeaming_CheatSheet/windows-ad/Domain-Privilege-Escalation.md at main · 0xJs/RedTeaming_CheatSheet",
+                  "type": "url",
+                  "url": "https://github.com/0xJs/RedTeaming_CheatSheet/blob/main/windows-ad/Domain-Privilege-Escalation.md?source=post_page-----6725de2a8235--------------------------------#Writeowner-of-an-object---Change-the-owner"
+               }, {
+                  "date_added": "13382526262000000",
+                  "date_last_used": "0",
+                  "guid": "9b50de64-8e18-4497-ab52-0bf327ded576",
+                  "id": "405",
+                  "name": "DeepSeek - Into the Unknown",
+                  "type": "url",
+                  "url": "https://chat.deepseek.com/"
+               }, {
+                  "date_added": "13383696619000000",
+                  "date_last_used": "0",
+                  "guid": "4cf842a9-94e8-4ec6-918b-19a8bfcdceb9",
+                  "id": "406",
+                  "name": "Daigo | Cuaderno Isshoni Mini Clear (Cuadros)",
+                  "type": "url",
+                  "url": "https://entropiapaperstore.com/products/daigo-cuaderno-isshoni-mini-clear-cuadros"
+               }, {
+                  "date_added": "13383834600000000",
+                  "date_last_used": "0",
+                  "guid": "4e3ff2f3-9f91-40e1-85f6-7535e8b9ae74",
+                  "id": "407",
+                  "name": "Anuncios segunda mano Tablas de Surf - Watsay en buen estado",
+                  "type": "url",
+                  "url": "https://www.surfmarket.org/es/segunda-mano/todos-los-anuncios/1-tablas-de-surf/11322-watsay-en-buen-estado"
+               }, {
+                  "date_added": "13383835010000000",
+                  "date_last_used": "0",
+                  "guid": "14b4e84b-ba43-4e07-bb39-c299571defb8",
+                  "id": "408",
+                  "name": "Anuncios segunda mano Tablas de Surf - Tabla de surf styling 5,8",
+                  "type": "url",
+                  "url": "https://www.surfmarket.org/es/segunda-mano/todos-los-anuncios/1-tablas-de-surf/14009-tabla-de-surf-styling-5-8"
+               }, {
+                  "date_added": "13384381430000000",
+                  "date_last_used": "0",
+                  "guid": "73853e07-7eec-44b1-9a70-debb2e532c36",
+                  "id": "409",
+                  "name": "mcs.pdf",
+                  "type": "url",
+                  "url": "https://people.csail.mit.edu/meyer/mcs.pdf"
+               }, {
+                  "date_added": "13384442287000000",
+                  "date_last_used": "0",
+                  "guid": "9296fb6c-5b80-4858-8062-22574ae8fbe8",
+                  "id": "410",
+                  "name": "AI PDF Chatbot: Chat with PDF for Instant Answers",
+                  "type": "url",
+                  "url": "https://pdf.wondershare.com/chat-with-pdf.html"
+               }, {
+                  "date_added": "13385130179000000",
+                  "date_last_used": "0",
+                  "guid": "3b35eb35-8152-469a-a48a-11ae9a34cc1d",
+                  "id": "411",
+                  "name": "What Youth",
+                  "type": "url",
+                  "url": "https://whatyouthsurf.com/"
+               }, {
+                  "date_added": "13385216816000000",
+                  "date_last_used": "0",
+                  "guid": "36334772-c3ff-49a6-86b9-25d25780c6b4",
+                  "id": "412",
+                  "name": "Submitted reports - YesWeHack",
+                  "type": "url",
+                  "url": "https://yeswehack.com/reports"
+               }, {
+                  "date_added": "13385478924000000",
+                  "date_last_used": "0",
+                  "guid": "df4dec63-d158-462e-a3b4-3c854caa27ad",
+                  "id": "413",
+                  "name": "Unidades relativas - CSS en español",
+                  "type": "url",
+                  "url": "https://lenguajecss.com/css/unidades-css/relativas/"
+               }, {
+                  "date_added": "13385646270000000",
+                  "date_last_used": "0",
+                  "guid": "6b539ccc-70dd-49ab-92d8-cc3b48851b7d",
+                  "id": "414",
+                  "name": "Claude",
+                  "type": "url",
+                  "url": "https://claude.ai/chat/8497b103-8fc3-4fd4-b82b-e408deed3c2c"
+               }, {
+                  "date_added": "13385819728000000",
+                  "date_last_used": "0",
+                  "guid": "c5e6390a-ee9d-49da-b5ca-5e7f61cb7bf3",
+                  "id": "415",
+                  "name": "https://pwnable.kr/",
+                  "type": "url",
+                  "url": "https://pwnable.kr/"
+               }, {
+                  "date_added": "13386341904000000",
+                  "date_last_used": "0",
+                  "guid": "db788ecc-90b4-4348-a912-962d6f9ee50e",
+                  "id": "416",
+                  "name": "R GO TOOLS R-GO Split Teclado Ergonã“Mico, QWERTY (US), Negro, Cableada : Amazon.es: Informática",
+                  "type": "url",
+                  "url": "https://www.amazon.es/Split-Ergonomic-Keyboard-Layout-QWERTY/dp/B071GCDWN7?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11A4AAJBASVL7&dib=eyJ2IjoiMSJ9.BLXHryQS6YO9rcwJEcdsXJOajP0WnPKPlo_ZjxuG7pFoCwJptE4TpCa1AERDaY-vJORtj5rY7WtyVsCA5t67xR7BPJNeg04gH9sO4PKTIbXM8GIpkyOceVSwUENVJEY-tTCLN34Meoj_yS3g3ba9h5ELVadbAn8PpUt5fjlXw9myo_rBqUfsjN1iUCnchqNhdUyyBM-MEpUJY4vDpgGmxFpqgC28u0CutSuYiyrbHk2CLdO_VuSj8Opt-Ih2GuqkoYA2kKgZIFp_IasS94Ik7KvpvEbBWJ378gwhtIzvk5QHiz2oLRf0tjlV6Ht7fu-Zos79Kk7xd8sIJ3NtmOPQPzzSyNO7LAIn3Ady-bPMEwolGJIpIfaNXoa-J4nxyqZ0q9FU1GYqPPU_UDgfIpfUfs_-8_tbXvJ-AzsGfywDfwQ0ikPUqNNujyX3aizKEEpE.rcQeBcj8wBzllmZNNfdZ7_iJdkI5_h22b9_zBu1DdeQ&dib_tag=se&keywords=ergo+keyboard&qid=1741868266&sprefix=ergo+keyboard%2Caps%2C96&sr=8-51&xpid=KPm9u0k9jVH_1"
+               }, {
+                  "date_added": "13386760029000000",
+                  "date_last_used": "0",
+                  "guid": "8298024f-0ec3-487d-a2af-c8a77dee99e8",
+                  "id": "417",
+                  "name": "crt.sh | Certificate Search",
+                  "type": "url",
+                  "url": "https://crt.sh/"
+               }, {
+                  "date_added": "13386846165000000",
+                  "date_last_used": "0",
+                  "guid": "9a88a5d5-8d54-4bb5-85db-92f2e7b9e4bd",
+                  "id": "418",
+                  "name": "Wayback Machine",
+                  "type": "url",
+                  "url": "https://web.archive.org/"
+               }, {
+                  "date_added": "13387026692000000",
+                  "date_last_used": "0",
+                  "guid": "6c461fe7-fc5e-42d5-bba6-f012bc2b62e0",
+                  "id": "419",
+                  "name": "Security Code Review 101. Code review is, hopefully, part of… | by Paul Ionescu | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/@paul_io/security-code-review-101-a3c593dc6854"
+               }, {
+                  "date_added": "13387375358000000",
+                  "date_last_used": "0",
+                  "guid": "381ffb2a-552a-4d48-bb36-7b7c0596750f",
+                  "id": "420",
+                  "name": "Developer Roadmaps",
+                  "type": "url",
+                  "url": "https://roadmap.sh/roadmaps"
+               }, {
+                  "date_added": "13388660542000000",
+                  "date_last_used": "0",
+                  "guid": "66c451a3-c185-4a6c-a10f-23d16de43d4b",
+                  "id": "421",
+                  "name": "Crafting Interpreters",
+                  "type": "url",
+                  "url": "https://craftinginterpreters.com/"
+               }, {
+                  "date_added": "13388752237000000",
+                  "date_last_used": "0",
+                  "guid": "dcf6a109-aa81-4c62-bebc-4265c93fad0f",
+                  "id": "422",
+                  "name": "Handmade Network",
+                  "type": "url",
+                  "url": "https://handmade.network/"
+               }, {
+                  "date_added": "13388756783000000",
+                  "date_last_used": "0",
+                  "guid": "ea2a8177-68b6-446d-88e3-ae80935afd3d",
+                  "id": "423",
+                  "name": "ASCII table - Table of ASCII codes, characters and symbols",
+                  "type": "url",
+                  "url": "https://www.ascii-code.com/"
+               }, {
+                  "date_added": "13388837015000000",
+                  "date_last_used": "0",
+                  "guid": "275e7174-53ae-4e69-a5ac-cf0733f70ddd",
+                  "id": "424",
+                  "name": "List of file signatures - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+               }, {
+                  "date_added": "13389276347000000",
+                  "date_last_used": "0",
+                  "guid": "8beac0eb-7a6c-4a55-bd6a-521b3edea5cc",
+                  "id": "425",
+                  "name": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+                  "type": "url",
+                  "url": "https://thepiratebay.org/description.php?id=77331947"
+               }, {
+                  "date_added": "13389879853000000",
+                  "date_last_used": "0",
+                  "guid": "db3d4af4-4434-410c-a0ba-225ea02a78a9",
+                  "id": "426",
+                  "name": "EliteKits",
+                  "type": "url",
+                  "url": "https://elitekitss.com/"
+               }, {
+                  "date_added": "13389880253000000",
+                  "date_last_used": "0",
+                  "guid": "80481c9d-87e6-45fd-8a12-f17356cea310",
+                  "id": "427",
+                  "name": "KEEBD - Keyboards, Cases, Switches, Parts and Accessories",
+                  "type": "url",
+                  "url": "https://keebd.com/"
+               }, {
+                  "date_added": "13390394107000000",
+                  "date_last_used": "0",
+                  "guid": "abb1cbb1-f042-444a-966e-38dfaa01bcdd",
+                  "id": "428",
+                  "name": "Cyber Security Roadmap: Learn to become a Cyber Security Expert",
+                  "type": "url",
+                  "url": "https://roadmap.sh/cyber-security"
+               }, {
+                  "date_added": "13391009684000000",
+                  "date_last_used": "0",
+                  "guid": "55ba10cb-121a-441b-9f24-f1f0b4240d37",
+                  "id": "429",
+                  "name": "Themes | Theme Plaza",
+                  "type": "url",
+                  "url": "https://themeplaza.art/themes?sort=most-downloaded"
+               }, {
+                  "date_added": "13391044102000000",
+                  "date_last_used": "0",
+                  "guid": "9fcdfe52-fcf5-4510-8d3b-52a4d8012001",
+                  "id": "430",
+                  "name": "Get Started | 3DS Hacks Guide",
+                  "type": "url",
+                  "url": "https://3ds.hacks.guide/get-started.html"
+               }, {
+                  "date_added": "13391044172000000",
+                  "date_last_used": "0",
+                  "guid": "291c13b4-c067-4bed-beb1-90908c9cb86a",
+                  "id": "431",
+                  "name": "Fat Yoshi 3DS | Theme Plaza",
+                  "type": "url",
+                  "url": "https://themeplaza.art/item/37816"
+               }, {
+                  "date_added": "13391250085000000",
+                  "date_last_used": "0",
+                  "guid": "ad48912c-db4e-4890-9685-c13af2324d03",
+                  "id": "432",
+                  "name": "Default Passwords | CIRT.net",
+                  "type": "url",
+                  "url": "https://www.cirt.net/passwords"
+               } ],
+               "date_added": "13391856222401551",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "d1977abf-db88-4653-9155-28a9d1cc2a99",
+               "id": "224",
+               "name": "toolbar",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13310422018000000",
+                  "date_last_used": "0",
+                  "guid": "beb4d0ac-d270-43ae-993e-dfeed112115e",
+                  "id": "434",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13310422018000000",
+                  "date_last_used": "0",
+                  "guid": "24375391-1bb0-44b3-87b2-8a2758caa92e",
+                  "id": "435",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13310422018000000",
+                  "date_last_used": "0",
+                  "guid": "71396277-e469-4592-be61-f5c8a136ce59",
+                  "id": "436",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13310422018000000",
+                  "date_last_used": "0",
+                  "guid": "a7d5a235-489c-495c-96dc-c169a799367a",
+                  "id": "437",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               }, {
+                  "date_added": "13327453268000000",
+                  "date_last_used": "0",
+                  "guid": "138f0b01-1787-4914-9eae-d971f41d4207",
+                  "id": "438",
+                  "name": "Obtener ayuda",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13327453268000000",
+                  "date_last_used": "0",
+                  "guid": "eed7a833-9284-447f-8843-01d1adfd84fd",
+                  "id": "439",
+                  "name": "Personalice Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13327453268000000",
+                  "date_last_used": "0",
+                  "guid": "c9af5110-a47b-4400-b2b2-c6fedc7c49cf",
+                  "id": "440",
+                  "name": "Involúcrese",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13327453268000000",
+                  "date_last_used": "0",
+                  "guid": "4eda28ef-0585-437b-bc9b-b7965e2f8342",
+                  "id": "441",
+                  "name": "Acerca de nosotros",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13391856222404536",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "d9811086-6b8e-4298-9ecd-474ca4f7e076",
+               "id": "433",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            } ],
+            "date_added": "13391856222401443",
+            "date_last_used": "0",
+            "date_modified": "13391856222401443",
+            "guid": "56257a9d-94a7-4702-8488-17e8c063ab14",
+            "id": "223",
+            "name": "Imported From Firefox (1)",
+            "type": "folder"
+         }, {
+            "date_added": "13392472772722494",
+            "date_last_used": "0",
+            "guid": "581072da-acb3-4dcb-853f-ef87f0c06fda",
+            "id": "445",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ASCII ART",
+            "type": "url",
+            "url": "https://ascii.co.uk/art"
+         }, {
+            "date_added": "13393438894056712",
+            "date_last_used": "0",
+            "guid": "3d52d58a-44d2-433b-9f0e-04389b4f752c",
+            "id": "447",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hack The Box - Academy",
+            "type": "url",
+            "url": "https://academy.hackthebox.com/module/23/section/622"
+         }, {
+            "date_added": "13393672247464317",
+            "date_last_used": "0",
+            "guid": "76018186-a60a-4ed0-b144-c16c73b62704",
+            "id": "449",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "BOE-A-2012-14301 Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses.",
+            "type": "url",
+            "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-14301"
+         }, {
+            "date_added": "13393978379507398",
+            "date_last_used": "0",
+            "guid": "14edafa2-1fea-48b8-a0e7-96abc51a278c",
+            "id": "451",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ÍNDICE ALFABÉTICO DE SOCIEDADES del BORME núm. 203 de 2010",
+            "type": "url",
+            "url": "https://www.boe.es/borme/dias/2010/10/21/pdfs/BORME-A-2010-203-99.pdf"
+         }, {
+            "date_added": "13393979596399611",
+            "date_last_used": "0",
+            "guid": "8f7e85c6-3acb-46a0-a81d-a4d2cb0c51b7",
+            "id": "452",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Actos de CANTABRIA del BORME núm. 196 de 2022",
+            "type": "url",
+            "url": "https://www.boe.es/borme/dias/2022/10/13/pdfs/BORME-A-2022-196-39.pdf"
+         }, {
+            "date_added": "13393979748424425",
+            "date_last_used": "0",
+            "guid": "eb156385-4781-4cdb-9fc7-632729cdc50d",
+            "id": "453",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "acta_jgl_2022-12-12.pdf",
+            "type": "url",
+            "url": "https://www.santander.es/system/files/acta_jgl_2022-12-12.pdf"
+         }, {
+            "date_added": "13394741733837092",
+            "date_last_used": "0",
+            "guid": "7df9c845-1ce8-4d44-af92-87e688e1df86",
+            "id": "455",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Code Modification Request",
+            "type": "url",
+            "url": "https://chatgpt.com/c/6852bfdf-c170-8010-9b47-e7a827265b22"
+         }, {
+            "date_added": "13396056452380901",
+            "date_last_used": "0",
+            "guid": "6378c4c5-b4aa-4353-ad7b-60a720324159",
+            "id": "457",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "「Notes」",
+            "type": "url",
+            "url": "http://localhost:8964/33"
+         }, {
+            "date_added": "13396036328988127",
+            "date_last_used": "0",
+            "guid": "886ef4f7-c659-4e01-a3f0-77662b67b68a",
+            "id": "458",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Methodology/01- Internal.md at main · lutzenfried/Methodology",
+            "type": "url",
+            "url": "https://github.com/lutzenfried/Methodology/blob/main/01-%20Internal.md"
+         }, {
+            "date_added": "13397065666431707",
+            "date_last_used": "0",
+            "guid": "547c36ad-ec31-433f-b869-3bea24a44623",
+            "id": "460",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bienvenido a Bludit | BLUDIT",
+            "type": "url",
+            "url": "http://192.168.1.37/"
+         }, {
+            "date_added": "13397826542569669",
+            "date_last_used": "0",
+            "guid": "23f0962d-a3fd-4e24-a776-0ea1dd6526b4",
+            "id": "462",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "192.168.1.34:5678/assets/index-B3p3789J.js",
+            "type": "url",
+            "url": "http://192.168.1.34:5678/assets/index-B3p3789J.js"
+         }, {
+            "date_added": "13398773776867549",
+            "date_last_used": "0",
+            "guid": "b12319f9-b75d-46b2-9396-fc961c076ae6",
+            "id": "464",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "http://wiki.editor.htb/xwiki/"
+         }, {
+            "date_added": "13398828281673409",
+            "date_last_used": "0",
+            "guid": "9e2b3e10-1fbb-44be-88db-2afc84c9ba59",
+            "id": "466",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Your Cybersecurity News Connection - Cyber News | CyberWire",
+            "type": "url",
+            "url": "https://thecyberwire.com/"
+         }, {
+            "date_added": "13403141362292961",
+            "date_last_used": "0",
+            "guid": "e900f67f-5a5e-4efd-b761-6be2f603f724",
+            "id": "500",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Imgflip - Create and Share Awesome Images",
+            "type": "url",
+            "url": "https://imgflip.com/"
+         }, {
+            "date_added": "13403142669553248",
+            "date_last_used": "0",
+            "guid": "a347145a-1ee2-44f0-bc76-06c126c4c768",
+            "id": "502",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Top memes en tendencia en español :) Memedroid",
+            "type": "url",
+            "url": "https://es.memedroid.com/memes/trending"
+         } ],
+         "date_added": "13391855898004413",
+         "date_last_used": "0",
+         "date_modified": "13410874301161164",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13398859300863281",
+               "date_last_used": "0",
+               "guid": "f708d687-8116-4901-8d01-f893d3cc1df7",
+               "id": "471",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Tech Podcasts From People You Trust | This Week in Tech | TWiT",
+               "type": "url",
+               "url": "https://twit.tv/"
+            }, {
+               "date_added": "13398828650362408",
+               "date_last_used": "0",
+               "guid": "8507417f-0c15-46b8-a9f2-6f94d00700ba",
+               "id": "468",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Cybersecurity Insiders - The Source for Cybersecurity Insights",
+               "type": "url",
+               "url": "https://www.cybersecurity-insiders.com/"
+            }, {
+               "date_added": "13398828535949730",
+               "date_last_used": "0",
+               "guid": "66f06d5f-2907-43ee-ab51-795cd0c353b2",
+               "id": "467",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Malwarebytes Forums",
+               "type": "url",
+               "url": "https://forums.malwarebytes.com/"
+            }, {
+               "date_added": "13398829022814761",
+               "date_last_used": "0",
+               "guid": "155fe436-6752-4a6c-ada5-9429712a42f5",
+               "id": "469",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Dashboard | MetaCTF",
+               "type": "url",
+               "url": "https://app.metactf.com/"
+            }, {
+               "date_added": "13339605634000000",
+               "date_last_used": "0",
+               "guid": "569af0f8-1ff1-41bf-bd9a-c9dbd9b89cde",
+               "id": "8",
+               "name": "The Hacker News | #1 Trusted Cybersecurity News Site",
+               "type": "url",
+               "url": "https://thehackernews.com/"
+            }, {
+               "date_added": "13398859607014982",
+               "date_last_used": "0",
+               "guid": "01e403b3-b4c5-4fb4-9771-35a256bdd6f9",
+               "id": "473",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Homepage - LetsDefend",
+               "type": "url",
+               "url": "https://app.letsdefend.io/homepage"
+            }, {
+               "date_added": "13398860110626011",
+               "date_last_used": "0",
+               "guid": "93aac3ae-edf5-4a1b-a38e-16ffa3b6a63a",
+               "id": "474",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "elhacker.INFO - Descargas Cursos, Manuales, Tutoriales y Libros",
+               "type": "url",
+               "url": "https://elhacker.info/manuales/An%C3%A1lisis%20de%20malware/"
+            }, {
+               "date_added": "13398860231384003",
+               "date_last_used": "0",
+               "guid": "d6200c6d-b207-4309-b4ce-c298d9ce9ecf",
+               "id": "475",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "elhacker.INFO - Descargas Cursos, Manuales, Tutoriales y Libros",
+               "type": "url",
+               "url": "https://elhacker.info/"
+            }, {
+               "date_added": "13399140165000893",
+               "date_last_used": "0",
+               "guid": "aba79f89-8763-4e71-a768-6794b0272640",
+               "id": "477",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Google Gemini",
+               "type": "url",
+               "url": "https://gemini.google.com/app/625cf400b33732e7?hl=es-ES"
+            }, {
+               "date_added": "13399553452025468",
+               "date_last_used": "0",
+               "guid": "aacc1e60-1446-4e42-93f1-29e838f4846e",
+               "id": "479",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Untitled Diagram - draw.io",
+               "type": "url",
+               "url": "https://app.diagrams.net/?src=about"
+            }, {
+               "date_added": "13400160660297459",
+               "date_last_used": "0",
+               "guid": "3dcf299c-4cdb-4929-99cc-a900c14c1f6d",
+               "id": "481",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Lua - Neovim docs",
+               "type": "url",
+               "url": "https://neovim.io/doc/user/lua.html#_introduction"
+            }, {
+               "date_added": "13400200232073748",
+               "date_last_used": "0",
+               "guid": "45a9d8b2-176c-4efe-8724-d413f34fbe80",
+               "id": "482",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Inyección reflejada de DLLs en Windows",
+               "type": "url",
+               "url": "https://www.hackplayers.com/2019/07/inyeccion-reflejada-de-dlls-en-windows.html"
+            }, {
+               "date_added": "13400852011047137",
+               "date_last_used": "0",
+               "guid": "7ab09c9f-7202-4aa0-af1d-cefb5738707e",
+               "id": "484",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Google Gemini",
+               "type": "url",
+               "url": "https://gemini.google.com/app/cfd52fa1b99106cd?hl=es-ES"
+            }, {
+               "date_added": "13401457304359510",
+               "date_last_used": "0",
+               "guid": "5f64d666-c682-4a74-854f-2d66c8432871",
+               "id": "486",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Página de Amazon de Coding Jesus",
+               "type": "url",
+               "url": "https://www.amazon.com/shop/thecodingjesus/list/1UYHUKJYRQ8AT?ref_=cm_sw_r_cp_ud_aipsflist_HKJ7Z1A2R539P85V33Y8"
+            }, {
+               "date_added": "13403053714526639",
+               "date_last_used": "0",
+               "guid": "012d0dd8-b9e6-4ce4-b816-ec62825c33c7",
+               "id": "493",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "What Every Programmer Should Know About Memory",
+               "type": "url",
+               "url": "https://people.freebsd.org/~lstewart/articles/cpumemory.pdf"
+            }, {
+               "date_added": "13403136670028657",
+               "date_last_used": "0",
+               "guid": "8f1d8766-f260-4b91-aaf0-048e3226bffd",
+               "id": "499",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SOC Prime Platform",
+               "type": "url",
+               "url": "https://tdm.socprime.com/active-threats/"
+            }, {
+               "date_added": "13403280975503732",
+               "date_last_used": "0",
+               "guid": "73b291c1-f2f1-478d-a9ea-99adc8d7f818",
+               "id": "506",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Some Blackberry 10 OS Patched Apk Files : BlackBerry ltd : Free Download, Borrow, and Streaming : Internet Archive",
+               "type": "url",
+               "url": "https://archive.org/details/com.twitter.android-patched"
+            }, {
+               "date_added": "13403692446177025",
+               "date_last_used": "0",
+               "guid": "91a20241-0bc6-4808-8822-a1149d26dcca",
+               "id": "508",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Hack The Box :: Hack The Box",
+               "type": "url",
+               "url": "https://app.hackthebox.com/competitive/9/overview"
+            }, {
+               "date_added": "13403771645619240",
+               "date_last_used": "0",
+               "guid": "54acb480-40f6-41a5-ad44-90d359f11bfb",
+               "id": "510",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "History",
+               "type": "url",
+               "url": "chrome://history/"
+            }, {
+               "date_added": "13410359260055149",
+               "date_last_used": "0",
+               "guid": "99ca845f-63c8-4c71-8d3a-0c50f8089021",
+               "id": "540",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CrackMy.App - Share and Solve Reverse Engineering Challenges",
+               "type": "url",
+               "url": "https://crackmy.app/"
+            }, {
+               "date_added": "13410865784834484",
+               "date_last_used": "0",
+               "guid": "3a3a5d3b-43c2-4178-9eae-3e2cae773b5d",
+               "id": "542",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Compiler Explorer",
+               "type": "url",
+               "url": "https://godbolt.org/"
+            } ],
+            "date_added": "13398859313111047",
+            "date_last_used": "0",
+            "date_modified": "13410865784834484",
+            "guid": "408aa6c0-310b-4609-a01a-c83c98d41341",
+            "id": "472",
+            "name": "CB-Shit",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13403053562135040",
+               "date_last_used": "0",
+               "guid": "b64b44d6-4923-46ef-aec3-a607f1c70abb",
+               "id": "489",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "KUBII",
+               "type": "url",
+               "url": "https://www.kubii.com/es/confirmation-commande?id_cart=2315104&id_module=98&id_order=550422&key=abdbca92820c079f2c17a077faaf80fc"
+            }, {
+               "date_added": "13403053536576680",
+               "date_last_used": "0",
+               "guid": "1f89522c-3070-46fe-8e94-f06dd7b77eb4",
+               "id": "488",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Tiendas-electronica",
+               "type": "url",
+               "url": "https://www.reichelt.com/es/es/"
+            }, {
+               "date_added": "13403053705653852",
+               "date_last_used": "0",
+               "guid": "0c5557b1-37d0-40a6-ade9-84102d65a3af",
+               "id": "492",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Paper - Chapters to Read - Hojas de cálculo de Google",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/145RvpkXPHngCk-VL-F5otTAlWMJ04OhPl2zks7_HwRI/edit?gid=0#gid=0"
+            } ],
+            "date_added": "13403053603989858",
+            "date_last_used": "0",
+            "date_modified": "13403053714526639",
+            "guid": "bf55c81d-e09f-47de-ba1f-d548f208e219",
+            "id": "491",
+            "name": "Tienda-Electronica",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13403088288153553",
+               "date_last_used": "0",
+               "guid": "b014f341-a2b9-4441-807e-c8c6b087b2f1",
+               "id": "495",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Bibliografía Recomendada",
+               "type": "url",
+               "url": "https://www.udc.es/es/biblioteca.fic/coleccion/bibliografia_recomendada/"
+            }, {
+               "date_added": "13403133475463445",
+               "date_last_used": "0",
+               "guid": "dee5aad2-0e9b-4e2e-9d5a-d206357502dc",
+               "id": "498",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "C Ya",
+               "type": "url",
+               "url": "https://www.tutorialesprogramacionya.com/cya/"
+            }, {
+               "date_added": "13403192853867756",
+               "date_last_used": "0",
+               "guid": "9ac8d3b2-6f85-468e-8588-cb2f96d0273d",
+               "id": "504",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Crunia - Catálogo da Biblioteca Universitaria da Universidade da Coruña (UDC) - A miña conta - Información xeral",
+               "type": "url",
+               "url": "https://cisug-udc.alma.exlibrisgroup.com/discovery/account?vid=34CISUG_UDC:CRUNIA&section=overview"
+            }, {
+               "date_added": "13406285228038116",
+               "date_last_used": "0",
+               "guid": "4b53d937-0236-4e55-a0cc-a0f445fbac68",
+               "id": "512",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "List of source code files, by chapter, from \"The Linux Programming Interface\"",
+               "type": "url",
+               "url": "https://man7.org/tlpi/code/online/all_files_by_chapter.html"
+            }, {
+               "date_added": "13406658698124134",
+               "date_last_used": "0",
+               "guid": "b96771b1-c8c7-47d8-a31e-d2ad56a39e5e",
+               "id": "514",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Directory listing for /",
+               "type": "url",
+               "url": "http://0.0.0.0:8000/"
+            }, {
+               "date_added": "13406720465592528",
+               "date_last_used": "0",
+               "guid": "e8d270f1-91bb-4e37-ae65-30dae5923859",
+               "id": "516",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "「Notes」",
+               "type": "url",
+               "url": "http://localhost:3333/184"
+            }, {
+               "date_added": "13406977096210895",
+               "date_last_used": "0",
+               "guid": "4d6a0b54-ae1d-456e-9484-40944b58c834",
+               "id": "518",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "「Notes」",
+               "type": "url",
+               "url": "http://localhost:3333/156"
+            }, {
+               "date_added": "13407371357787040",
+               "date_last_used": "0",
+               "guid": "9607d3ee-ff33-4d17-9996-b147fcf10241",
+               "id": "521",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Escalación Privilegios en Nanocorp: Guía Paso a Paso - Grok",
+               "type": "url",
+               "url": "https://grok.com/c/132b5d67-7e85-4813-8161-737b790272f3"
+            }, {
+               "date_added": "13407372473945158",
+               "date_last_used": "0",
+               "guid": "267c6122-be19-4990-a0fd-699e1c7e4799",
+               "id": "523",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "The NTLM Authentication Protocol and Security Support Provider",
+               "type": "url",
+               "url": "https://davenport.sourceforge.net/ntlm.html#localAuthentication"
+            }, {
+               "date_added": "13407372547658686",
+               "date_last_used": "0",
+               "guid": "a05c4561-dee6-4b19-be8b-3df923aa4e65",
+               "id": "524",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Checkmk: Remote Code Execution by Chaining Multiple Bugs (1/3) | Sonar",
+               "type": "url",
+               "url": "https://www.sonarsource.com/blog/checkmk-rce-chain-1/"
+            }, {
+               "date_added": "13407410742260010",
+               "date_last_used": "0",
+               "guid": "ff353363-dce5-4aa6-bddf-938239b425ef",
+               "id": "526",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Checkmk: Remote Code Execution by Chaining Multiple Bugs (2/3) | Sonar",
+               "type": "url",
+               "url": "https://www.sonarsource.com/blog/checkmk-rce-chain-2/"
+            }, {
+               "date_added": "13407929592263937",
+               "date_last_used": "0",
+               "guid": "ff53507e-454d-4f38-b4c3-bfc8e69788fc",
+               "id": "528",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "tldr InBrowser.App",
+               "type": "url",
+               "url": "https://tldr.inbrowser.app/"
+            }, {
+               "date_added": "13407938341420730",
+               "date_last_used": "0",
+               "guid": "b35c859f-5398-4d73-bafa-e76deb260fd1",
+               "id": "529",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Security Training Reimagined | RET2 WarGames",
+               "type": "url",
+               "url": "https://wargames.ret2.systems/"
+            }, {
+               "date_added": "13408632269050476",
+               "date_last_used": "0",
+               "guid": "2960cf49-1f01-4bae-959e-8aacee1de10b",
+               "id": "531",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Hacker News",
+               "type": "url",
+               "url": "https://news.ycombinator.com/"
+            }, {
+               "date_added": "13408705992750763",
+               "date_last_used": "0",
+               "guid": "2dd68723-075a-40b1-b6db-0f157df25fba",
+               "id": "533",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "06 ‐ Privilege Escalation · ly4k/Certipy Wiki",
+               "type": "url",
+               "url": "https://github.com/ly4k/Certipy/wiki/06-%E2%80%90-Privilege-Escalation"
+            }, {
+               "date_added": "13408796548202410",
+               "date_last_used": "0",
+               "guid": "f991f1a3-427f-4078-a1c0-0203320c5781",
+               "id": "535",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "E-Reader Screensaver Generator | Custom Kindle & Kobo Wallpaper Maker",
+               "type": "url",
+               "url": "https://www.ebookscreensaver.com/"
+            }, {
+               "date_added": "13409134353957513",
+               "date_last_used": "0",
+               "guid": "4496f989-d9ce-47fc-937c-2604a1dfd2a2",
+               "id": "537",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Mark H4CK - Reversing & Hacking",
+               "type": "url",
+               "url": "https://www.markh4ck.blog/"
+            }, {
+               "date_added": "13409139302765813",
+               "date_last_used": "0",
+               "guid": "d2cdfdca-b8a4-4049-ab5d-7c2ddd398334",
+               "id": "538",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Hack The Box :: Seasonal",
+               "type": "url",
+               "url": "https://app.hackthebox.com/seasonal?tab=overview&season_id=9"
+            } ],
+            "date_added": "13403088310675813",
+            "date_last_used": "0",
+            "date_modified": "13410359260055149",
+            "guid": "19a8bc22-dff1-44e5-9df2-17453f3ff073",
+            "id": "496",
+            "name": "Books",
+            "type": "folder"
+         } ],
+         "date_added": "13391855898004414",
+         "date_last_used": "0",
+         "date_modified": "13398859313111262",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13391855898004416",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

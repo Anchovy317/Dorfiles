@@ -1,0 +1,10 @@
+2026/02/02-19:22:39.270 ab9 Reusing MANIFEST /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2026/02/02-19:22:39.270 ab9 Recovering log #7149
+2026/02/02-19:22:39.276 ab9 Reusing old log /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/007149.log 
+2026/02/02-19:29:41.103 aba Compacting 2@0 + 1@1 files
+2026/02/02-19:29:41.129 aba Generated table #7152@0: 25 keys, 298272 bytes
+2026/02/02-19:29:41.129 aba Compacted 2@0 + 1@1 files => 298272 bytes
+2026/02/02-19:29:41.131 aba compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/02-19:29:41.131 aba Delete type=2 #7148
+2026/02/02-19:29:41.131 aba Delete type=2 #7150
+2026/02/02-19:29:41.131 aba Delete type=2 #7145

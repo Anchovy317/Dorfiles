@@ -1,0 +1,6 @@
+2026/02/02-17:52:20.614 3c76 Reusing MANIFEST /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/02-17:52:20.614 3c76 Recovering log #3
+2026/02/02-17:52:20.618 3c76 Reusing old log /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2026/02/02-17:54:36.630 3c78 Level-0 table #5: started
+2026/02/02-17:54:36.658 3c78 Level-0 table #5: 1192360 bytes OK
+2026/02/02-17:54:36.660 3c78 Delete type=0 #3

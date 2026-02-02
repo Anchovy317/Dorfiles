@@ -1,0 +1,37 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[Print Preview]
+2560x1440 screen: Height=500
+2560x1440 screen: Width=600
+
+[Recent Files]
+File1[$e]=$HOME/CVs/Cv.pdf
+File10[$e]=$HOME/Downloads/calendario.jpg
+File2[$e]=$HOME/CVs/CV.pdf
+File3[$e]=$HOME/Downloads/profile-photo.jpeg
+File4[$e]=$HOME/Mega_Shit_Folder/Books/C/modernC.pdf
+File5[$e]=$HOME/Mega_Shit_Folder/Books/CSAPP.pdf
+File6[$e]=$HOME/Downloads/j.pdf
+File7[$e]=$HOME/Downloads/tt.pdf
+File8[$e]=$HOME/Downloads/link.pdf
+File9[$e]=$HOME/Downloads/hotel.pdf
+Name1[$e]=Cv.pdf
+Name10[$e]=calendario.jpg
+Name2[$e]=CV.pdf
+Name3[$e]=profile-photo.jpeg
+Name4[$e]=modernC.pdf
+Name5[$e]=CSAPP.pdf
+Name6[$e]=j.pdf
+Name7[$e]=tt.pdf
+Name8[$e]=link.pdf
+Name9[$e]=hotel.pdf
+
+[UiSettings]
+ColorScheme=BreezeDark

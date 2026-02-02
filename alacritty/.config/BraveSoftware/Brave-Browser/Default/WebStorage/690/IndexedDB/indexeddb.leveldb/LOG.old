@@ -1,0 +1,14 @@
+2026/02/02-17:52:25.875 3c76 Reusing MANIFEST /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/WebStorage/690/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/02/02-17:52:25.875 3c76 Recovering log #4
+2026/02/02-17:52:25.875 3c76 Reusing old log /home/Anchovy/.config/BraveSoftware/Brave-Browser/Default/WebStorage/690/IndexedDB/indexeddb.leveldb/000004.log 
+2026/02/02-17:52:26.653 3c78 Level-0 table #8: started
+2026/02/02-17:52:26.654 3c78 Level-0 table #8: 12680 bytes OK
+2026/02/02-17:52:26.655 3c78 Delete type=0 #4
+2026/02/02-17:52:26.656 3c78 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/02-17:52:26.656 3c78 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 364 : 1
+2026/02/02-17:52:26.656 3c78 Compacting 1@1 + 1@2 files
+2026/02/02-17:52:26.657 3c78 Generated table #9@1: 40 keys, 1057 bytes
+2026/02/02-17:52:26.657 3c78 Compacted 1@1 + 1@2 files => 1057 bytes
+2026/02/02-17:52:26.658 3c78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/02-17:52:26.658 3c78 Delete type=2 #8
+2026/02/02-17:52:26.658 3c78 Manual compaction at level-1 from '\x00\x04\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 364 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
