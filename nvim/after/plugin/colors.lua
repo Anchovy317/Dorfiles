@@ -1,5 +1,5 @@
 function ColorMyPencils(color)
-    color = color or "solarized-osaka"
+    color = color or "matrix"
     vim.cmd.colorscheme(color)
 
     -- Mantener transparencia (opcional)

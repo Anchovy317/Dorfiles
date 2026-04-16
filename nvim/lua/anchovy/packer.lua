@@ -23,11 +23,10 @@ return require('packer').startup(function(use)
 
 
     })
-    use({"nvim-treesitter/nvim-treesitter", run = ":TSUpdate" })
-    use("nvim-treesitter/playground")
     use("nvim-tree/nvim-tree.lua")
     use("sphamba/smear-cursor.nvim")
     use("craftzdog/solarized-osaka.nvim")
+    use("nvim-treesitter/nvim-treesitter")
     use("mbbill/undotree")
     use("iruzo/matrix-nvim")
     use("olivercederborg/poimandres.nvim")
@@ -39,6 +38,7 @@ return require('packer').startup(function(use)
     use("junegunn/fzf.vim")
     use("lervag/vimtex")
     use("rose-pine/neovim")
+    use("brenoprata10/nvim-highlight-colors")
     use({
     "iamcco/markdown-preview.nvim",
     run = function() vim.fn["mkdp#util#install"]() end,})
@@ -69,6 +69,14 @@ return require('packer').startup(function(use)
             "windwp/nvim-autopairs",
             config = function() require("nvim-autopairs").setup {} end
         }
+
+        use{'~/Documents/my_test_plugin'}
+        use{
+            '~/Plug-nvim/mi-plugin-cpp/',
+            run = 'make'
+        }
+
+
         use("folke/zen-mode.nvim")
         use("xiyaowong/transparent.nvim")
         use("eandrju/cellular-automaton.nvim")
@@ -78,7 +86,6 @@ return require('packer').startup(function(use)
         use 'mfussenegger/nvim-dap'
         use({
          'MeanderingProgrammer/render-markdown.nvim',
-        after = { 'nvim-treesitter' },
         --requires = { 'echasnovski/mini.nvim', opt = true }, -- if you use the mini.nvim suite
         -- requires = { 'echasnovski/mini.icons', opt = true }, -- if you use standalone mini plugins
         requires = { 'nvim-tree/nvim-web-devicons', opt = true }, -- if you prefer nvim-web-devicons
